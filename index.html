@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grammar Master</title>
+<link rel="stylesheet" href="css/styles.css">
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+<div class="app">
+<aside class="sidebar">
+<h2>Grammar Master</h2>
+<input type="text" id="searchBar" placeholder="Search rules...">
+<select id="categoryFilter">
+<option value="all">All Categories</option>
+<option value="tenses">Tenses</option>
+<option value="modals">Modals</option>
+<option value="voice">Voice</option>
+<option value="conditionals">Conditionals</option>
+<option value="advanced">Advanced</option>
+</select>
+<div class="progress">
+<p>XP: <span id="xp">0</span></p>
+<p>Completion: <span id="completion">0%</span></p>
+</div>
+<button id="themeToggle">Toggle Theme</button>
+</aside>
+<main class="content">
+<div id="ruleList" class="rule-list"></div>
+<div id="ruleContent" class="rule-content hidden"></div>
+<div id="quizSection" class="quiz hidden"></div>
+</main>
+</div>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

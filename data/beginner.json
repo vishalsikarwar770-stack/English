@@ -1,0 +1,2487 @@
+[
+{
+"id": "B-001",
+"level": "beginner",
+"category": "tenses",
+"xpReward": 25,
+"difficulty": 1,
+"name": "Simple Present Tense",
+"explanation": "The Simple Present is used for habits, universal truths, and repeated actions. In exams, watch third-person singular errors (he/she/it + s/es).",
+"structure": "Subject + base verb (add s/es for third person singular)",
+"keyPoints": [
+"Used for daily routines",
+"Used for facts and general truths",
+"Add s/es for he/she/it"
+],
+"examples": [
+"She plays football.",
+"The sun rises in the east.",
+"They work hard."
+],
+"incorrect": {
+"sentence": "She play football.",
+"explanation": "Missing 's' for third person singular."
+},
+"questions": [
+{
+"question": "Choose the correct sentence:",
+"options": [
+"He goes to school daily.",
+"He go to school daily.",
+"He going to school daily.",
+"He gone to school daily."
+],
+"answer": 0,
+"explanation": "Third person singular takes 'es'."
+},
+{
+"question": "The earth ____ around the sun.",
+"options": ["revolves", "revolve", "revolving", "revolved"],
+"answer": 0,
+"explanation": "Universal truth uses simple present."
+},
+{
+"question": "Identify the error:",
+"options": [
+"She writes neatly.",
+"He play cricket.",
+"They eat rice.",
+"We study daily."
+],
+"answer": 1,
+"explanation": "He → plays."
+},
+{
+"question": "Simple Present is NOT used for:",
+"options": [
+"Habits",
+"Facts",
+"Ongoing actions now",
+"Schedules"
+],
+"answer": 2,
+"explanation": "Ongoing actions use present continuous."
+},
+{
+"question": "She ____ English well.",
+"options": ["speaks", "speak", "speaking", "spoken"],
+"answer": 0,
+"explanation": "Third person singular needs 's'."
+}
+]
+},
+
+{
+"id": "B-002",
+"level": "beginner",
+"category": "tenses",
+"name": "Present Continuous Tense",
+"xpReward": 25,
+"difficulty": 1,
+"explanation": "Used for actions happening right now or temporary actions. Exams test confusion between simple present and continuous.",
+"structure": "Subject + am/is/are + verb-ing",
+"keyPoints": [
+"Action happening now",
+"Temporary situation",
+"Not used with stative verbs"
+],
+"examples": [
+"She is reading a book.",
+"They are playing.",
+"I am studying."
+],
+"incorrect": {
+"sentence": "She is know the answer.",
+"explanation": "Stative verbs like 'know' are not used in continuous form."
+},
+"questions": [
+{
+"question": "He ____ right now.",
+"options": ["is sleeping", "sleep", "slept", "sleeps"],
+"answer": 0,
+"explanation": "Action happening now."
+},
+{
+"question": "Choose incorrect sentence:",
+"options": [
+"I am working.",
+"She is eating.",
+"They are playing.",
+"I am knowing the answer."
+],
+"answer": 3,
+"explanation": "Stative verb cannot be continuous."
+},
+{
+"question": "Present continuous structure:",
+"options": [
+"Subject + base verb",
+"Subject + was + verb",
+"Subject + am/is/are + ing",
+"Subject + will + verb"
+],
+"answer": 2,
+"explanation": "Correct structure."
+},
+{
+"question": "They ____ football at the moment.",
+"options": ["are playing", "play", "played", "plays"],
+"answer": 0,
+"explanation": "At the moment indicates ongoing action."
+},
+{
+"question": "Identify error:",
+"options": [
+"She is dancing.",
+"I am writing.",
+"He is understand.",
+"We are studying."
+],
+"answer": 2,
+"explanation": "Understand is stative verb."
+}
+]
+}
+]
+,
+{
+"id": "B-003",
+"level": "beginner",
+"category": "tenses",
+"xpReward": 25,
+"difficulty": 1,
+"name": "Simple Past Tense",
+"explanation": "Used for completed actions in the past. Competitive exams test irregular verbs and wrong past forms.",
+"structure": "Subject + past form of verb",
+"keyPoints": [
+"Used for finished past actions",
+"Time indicators: yesterday, ago, last night",
+"Watch irregular verbs"
+],
+"examples": [
+"She visited Delhi.",
+"They completed the work.",
+"He wrote a letter."
+],
+"incorrect": {
+"sentence": "He writed a letter.",
+"explanation": "Correct past form is 'wrote'."
+},
+"questions": [
+{
+"question": "Choose correct sentence:",
+"options": [
+"He went home.",
+"He goed home.",
+"He goes home yesterday.",
+"He go home."
+],
+"answer": 0,
+"explanation": "Past form of go is went."
+},
+{
+"question": "She ____ the exam last week.",
+"options": ["passed", "pass", "passing", "passes"],
+"answer": 0,
+"explanation": "Completed past action."
+},
+{
+"question": "Identify error:",
+"options": [
+"They finished work.",
+"He saw the movie.",
+"She buyed a dress.",
+"We studied."
+],
+"answer": 2,
+"explanation": "Correct form is bought."
+},
+{
+"question": "Simple past is used for:",
+"options": [
+"Future plan",
+"Ongoing action",
+"Completed past action",
+"Universal truth"
+],
+"answer": 2,
+"explanation": "It expresses finished past action."
+},
+{
+"question": "He ____ cricket yesterday.",
+"options": ["played", "plays", "playing", "play"],
+"answer": 0,
+"explanation": "Yesterday indicates past."
+}
+]
+},
+
+{
+"id": "B-004",
+"level": "beginner",
+"category": "tenses",
+"xpReward": 30,
+"difficulty": 1,
+"name": "Simple Future (Will)",
+"explanation": "Used for decisions made at the moment, promises, predictions. Exams trap: avoid 'will' in time clauses.",
+"structure": "Subject + will + base verb",
+"keyPoints": [
+"Instant decisions",
+"Promises",
+"Predictions"
+],
+"examples": [
+"I will call you.",
+"They will win the match.",
+"She will help you."
+],
+"incorrect": {
+"sentence": "I will call you when he will come.",
+"explanation": "No 'will' in time clause."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"I will help you.",
+"I helping you.",
+"I will helped you.",
+"I help you tomorrow."
+],
+"answer": 0,
+"explanation": "Future uses will + base verb."
+},
+{
+"question": "We ____ win the match.",
+"options": ["will", "would", "are", "were"],
+"answer": 0,
+"explanation": "Future prediction."
+},
+{
+"question": "Identify error:",
+"options": [
+"She will succeed.",
+"They will come.",
+"I will go when he will arrive.",
+"We will study."
+],
+"answer": 2,
+"explanation": "No will in time clause."
+},
+{
+"question": "Structure of simple future:",
+"options": [
+"Subject + will + base",
+"Subject + verb+ing",
+"Subject + past",
+"Subject + has + verb"
+],
+"answer": 0,
+"explanation": "Correct structure."
+},
+{
+"question": "He ____ meet us tomorrow.",
+"options": ["will", "would", "is", "has"],
+"answer": 0,
+"explanation": "Tomorrow indicates future."
+}
+]
+},
+
+{
+"id": "B-005",
+"level": "beginner",
+"category": "agreement",
+"xpReward": 30,
+"difficulty": 2,
+"name": "Basic Subject-Verb Agreement",
+"explanation": "A singular subject takes a singular verb. A plural subject takes a plural verb. Exams test collective nouns and confusing phrases.",
+"structure": "Singular subject → singular verb",
+"keyPoints": [
+"He/She/It + singular verb",
+"Ignore words between subject and verb",
+"Watch collective nouns"
+],
+"examples": [
+"The boy runs fast.",
+"The girls play well.",
+"My friend lives here."
+],
+"incorrect": {
+"sentence": "The boys runs fast.",
+"explanation": "Plural subject needs plural verb."
+},
+"questions": [
+{
+"question": "The dog ____ loudly.",
+"options": ["barks", "bark", "barking", "barked"],
+"answer": 0,
+"explanation": "Singular subject."
+},
+{
+"question": "The players ____ ready.",
+"options": ["are", "is", "was", "has"],
+"answer": 0,
+"explanation": "Plural subject."
+},
+{
+"question": "Identify error:",
+"options": [
+"She sings well.",
+"They plays cricket.",
+"He works hard.",
+"The child cries."
+],
+"answer": 1,
+"explanation": "Plural subject needs play."
+},
+{
+"question": "Each of the students ____ present.",
+"options": ["is", "are", "were", "have"],
+"answer": 0,
+"explanation": "Each is singular."
+},
+{
+"question": "The list of items ____ on the table.",
+"options": ["is", "are", "were", "have"],
+"answer": 0,
+"explanation": "Main subject is 'list'."
+}
+]
+},
+
+{
+"id": "B-006",
+"level": "beginner",
+"category": "pronouns",
+"xpReward": 25,
+"difficulty": 1,
+"name": "Personal Pronouns",
+"explanation": "Pronouns replace nouns. Exams test subject vs object forms (I/me, he/him).",
+"structure": "Subject pronoun + verb",
+"keyPoints": [
+"I, we, he, she, they (subject)",
+"Me, us, him, her, them (object)",
+"Match pronoun to position"
+],
+"examples": [
+"He is my friend.",
+"She helped me.",
+"They invited us."
+],
+"incorrect": {
+"sentence": "Me went home.",
+"explanation": "Use subject pronoun 'I'."
+},
+"questions": [
+{
+"question": "____ went to school.",
+"options": ["He", "Him", "Her", "Them"],
+"answer": 0,
+"explanation": "Subject position."
+},
+{
+"question": "She called ____.",
+"options": ["me", "I", "we", "they"],
+"answer": 0,
+"explanation": "Object position."
+},
+{
+"question": "Identify error:",
+"options": [
+"He gave me a gift.",
+"She saw him.",
+"Me completed work.",
+"They invited us."
+],
+"answer": 2,
+"explanation": "Subject pronoun needed."
+},
+{
+"question": "Choose correct:",
+"options": [
+"She and I went.",
+"Her and me went.",
+"Me and her went.",
+"She and me went."
+],
+"answer": 0,
+"explanation": "Subject pronouns required."
+},
+{
+"question": "The teacher called ____.",
+"options": ["him", "he", "they", "we"],
+"answer": 0,
+"explanation": "Object form."
+}
+]
+}
+]
+,
+{
+"id": "B-007",
+"level": "beginner",
+"category": "articles",
+"xpReward": 25,
+"difficulty": 1,
+"name": "Use of A and An",
+"explanation": "Use 'a' before consonant sounds and 'an' before vowel sounds. Exams test sound, not spelling.",
+"structure": "a + consonant sound | an + vowel sound",
+"keyPoints": [
+"Sound matters, not letter",
+"'An hour' (silent h)",
+"'A university' (you sound)"
+],
+"examples": [
+"A cat",
+"An apple",
+"An hour"
+],
+"incorrect": {
+"sentence": "An university",
+"explanation": "'University' starts with 'you' sound."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": ["An honest man", "A honest man", "An university", "A hour"],
+"answer": 0,
+"explanation": "Honest has silent h."
+},
+{
+"question": "She bought ____ umbrella.",
+"options": ["an", "a", "the", "no article"],
+"answer": 0,
+"explanation": "Umbrella begins with vowel sound."
+},
+{
+"question": "Correct usage:",
+"options": ["A MBA degree", "An MBA degree", "A hour", "An university"],
+"answer": 1,
+"explanation": "MBA starts with vowel sound."
+},
+{
+"question": "Identify error:",
+"options": [
+"A dog",
+"An egg",
+"A umbrella",
+"An owl"
+],
+"answer": 2,
+"explanation": "Should be 'an umbrella'."
+},
+{
+"question": "Use 'a' before:",
+"options": [
+"Vowel sound",
+"Consonant sound",
+"Plural nouns",
+"Past tense verbs"
+],
+"answer": 1,
+"explanation": "'A' precedes consonant sound."
+}
+]
+},
+
+{
+"id": "B-008",
+"level": "beginner",
+"category": "articles",
+"name": "Use of The",
+"xpReward": 25,
+"difficulty": 1,
+"explanation": "'The' is used for specific nouns, unique things, superlatives, and known references.",
+"structure": "the + specific noun",
+"keyPoints": [
+"Unique objects (the sun)",
+"Superlatives (the best)",
+"Previously mentioned noun"
+],
+"examples": [
+"The sun rises.",
+"The book you gave me is good.",
+"He is the best player."
+],
+"incorrect": {
+"sentence": "Sun rises in east.",
+"explanation": "Unique nouns require 'the'."
+},
+"questions": [
+{
+"question": "____ Taj Mahal is beautiful.",
+"options": ["The", "A", "An", "No article"],
+"answer": 0,
+"explanation": "Specific monument."
+},
+{
+"question": "He is ____ tallest boy.",
+"options": ["the", "a", "an", "no article"],
+"answer": 0,
+"explanation": "Superlative requires 'the'."
+},
+{
+"question": "Identify error:",
+"options": [
+"The earth moves.",
+"I saw the movie.",
+"She bought the pen yesterday (first mention).",
+"The Ganga is sacred."
+],
+"answer": 2,
+"explanation": "First mention doesn't require 'the'."
+},
+{
+"question": "'The' is NOT used with:",
+"options": [
+"Superlatives",
+"Unique objects",
+"General plural nouns",
+"Specific references"
+],
+"answer": 2,
+"explanation": "General plural nouns omit article."
+},
+{
+"question": "He plays ____ piano.",
+"options": ["the", "a", "an", "no article"],
+"answer": 0,
+"explanation": "Musical instruments take 'the'."
+}
+]
+},
+
+{
+"id": "B-009",
+"level": "beginner",
+"category": "prepositions",
+"name": "Prepositions of Time (At, On, In)",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "Use 'at' for exact time, 'on' for days/dates, and 'in' for months, years, long periods. Exams frequently test this.",
+"structure": "at (time) | on (day/date) | in (month/year)",
+"keyPoints": [
+"At 5 PM",
+"On Monday",
+"In 2024"
+],
+"examples": [
+"At 7 o'clock",
+"On Sunday",
+"In December"
+],
+"incorrect": {
+"sentence": "He was born on 1999.",
+"explanation": "Years take 'in'."
+},
+"questions": [
+{
+"question": "She was born ____ 2001.",
+"options": ["in", "on", "at", "by"],
+"answer": 0,
+"explanation": "Years use 'in'."
+},
+{
+"question": "The meeting is ____ Monday.",
+"options": ["on", "in", "at", "by"],
+"answer": 0,
+"explanation": "Days take 'on'."
+},
+{
+"question": "He arrived ____ 5 PM.",
+"options": ["at", "on", "in", "to"],
+"answer": 0,
+"explanation": "Exact time uses 'at'."
+},
+{
+"question": "Identify error:",
+"options": [
+"In January",
+"On Sunday",
+"At night",
+"On 2020"
+],
+"answer": 3,
+"explanation": "Year requires 'in'."
+},
+{
+"question": "Use 'in' for:",
+"options": [
+"Exact time",
+"Day",
+"Year",
+"Specific hour"
+],
+"answer": 2,
+"explanation": "Years and months."
+}
+]
+},
+
+{
+"id": "B-010",
+"level": "beginner",
+"category": "conjunctions",
+"name": "Coordinating Conjunctions (FANBOYS)",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "Coordinating conjunctions join equal clauses. Remember FANBOYS: For, And, Nor, But, Or, Yet, So.",
+"structure": "Clause + conjunction + clause",
+"keyPoints": [
+"Joins equal parts",
+"Comma before conjunction in compound sentence",
+"Common exam trap: misuse of 'but' and 'so'"
+],
+"examples": [
+"I tried hard, but I failed.",
+"She studied and passed.",
+"He was tired, so he slept."
+],
+"incorrect": {
+"sentence": "I was tired but slept.",
+"explanation": "Comma required in compound sentence."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"I was tired, but I worked.",
+"I was tired but I worked.",
+"I was tired and but worked.",
+"I tired but worked."
+],
+"answer": 0,
+"explanation": "Comma required."
+},
+{
+"question": "FANBOYS stands for:",
+"options": [
+"For And Nor But Or Yet So",
+"Five And Nine Boys",
+"For All New Big Old Young Small",
+"None"
+],
+"answer": 0,
+"explanation": "Correct acronym."
+},
+{
+"question": "Identify conjunction:",
+"options": [
+"Quickly",
+"But",
+"Very",
+"Happy"
+],
+"answer": 1,
+"explanation": "'But' is conjunction."
+},
+{
+"question": "She studied hard, ____ she passed.",
+"options": ["so", "but", "nor", "yet"],
+"answer": 0,
+"explanation": "Shows result."
+},
+{
+"question": "Which joins equal clauses?",
+"options": [
+"Subordinator",
+"Preposition",
+"Coordinating conjunction",
+"Adverb"
+],
+"answer": 2,
+"explanation": "Correct term."
+}
+]
+}
+,
+{
+"id": "B-011",
+"level": "beginner",
+"category": "modals",
+"xpReward": 30,
+"difficulty": 2,
+"name": "Modal Verb: Can",
+"explanation": "'Can' expresses ability, permission, or possibility. Exams test confusion between can and may for permission.",
+"structure": "Subject + can + base verb",
+"keyPoints": [
+"Ability (I can swim)",
+"Informal permission",
+"No 'to' after can"
+],
+"examples": [
+"I can solve this problem.",
+"She can drive.",
+"Can I leave early?"
+],
+"incorrect": {
+"sentence": "She can to swim.",
+"explanation": "Modal verbs are followed by base verb without 'to'."
+},
+"questions": [
+{
+"question": "She ____ speak English fluently.",
+"options": ["can", "cans", "can to", "could to"],
+"answer": 0,
+"explanation": "Modal + base verb."
+},
+{
+"question": "Choose correct:",
+"options": [
+"He can swim.",
+"He can swims.",
+"He can to swim.",
+"He cans swim."
+],
+"answer": 0,
+"explanation": "Base verb after modal."
+},
+{
+"question": "Modal verbs are followed by:",
+"options": [
+"Past form",
+"Base verb",
+"Verb+ing",
+"To + verb"
+],
+"answer": 1,
+"explanation": "Always base form."
+},
+{
+"question": "Identify error:",
+"options": [
+"I can help.",
+"She can drive.",
+"He can to read.",
+"They can win."
+],
+"answer": 2,
+"explanation": "Remove 'to'."
+},
+{
+"question": "'Can' expresses:",
+"options": [
+"Ability",
+"Past regret",
+"Completed action",
+"Ownership"
+],
+"answer": 0,
+"explanation": "Primarily ability."
+}
+]
+},
+
+{
+"id": "B-012",
+"level": "beginner",
+"category": "modals",
+"name": "Modal Verb: Must",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "'Must' expresses obligation or strong necessity. Exams test confusion between must and have to.",
+"structure": "Subject + must + base verb",
+"keyPoints": [
+"Strong obligation",
+"Personal necessity",
+"No past form (use had to)"
+],
+"examples": [
+"You must follow rules.",
+"She must finish work.",
+"I must leave now."
+],
+"incorrect": {
+"sentence": "She must to finish work.",
+"explanation": "No 'to' after must."
+},
+"questions": [
+{
+"question": "You ____ wear a helmet.",
+"options": ["must", "must to", "musts", "musted"],
+"answer": 0,
+"explanation": "Correct modal usage."
+},
+{
+"question": "Past of must:",
+"options": ["had to", "musted", "have must", "must have"],
+"answer": 0,
+"explanation": "Use had to."
+},
+{
+"question": "Identify error:",
+"options": [
+"He must work hard.",
+"She must to study.",
+"They must obey rules.",
+"I must go."
+],
+"answer": 1,
+"explanation": "Remove 'to'."
+},
+{
+"question": "'Must' shows:",
+"options": [
+"Strong obligation",
+"Future plan",
+"Past habit",
+"Comparison"
+],
+"answer": 0,
+"explanation": "It expresses necessity."
+},
+{
+"question": "She ____ submit the form today.",
+"options": ["must", "musts", "must to", "musted"],
+"answer": 0,
+"explanation": "Base verb after must."
+}
+]
+},
+
+{
+"id": "B-013",
+"level": "beginner",
+"category": "adjectives",
+"name": "Comparative Adjectives",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "Comparatives compare two things. Add -er or use 'more' for longer adjectives. Exams test irregular forms.",
+"structure": "Adjective + er / more + adjective",
+"keyPoints": [
+"Tall → taller",
+"Beautiful → more beautiful",
+"Good → better"
+],
+"examples": [
+"This book is better.",
+"She is taller than me.",
+"This is more useful."
+],
+"incorrect": {
+"sentence": "She is more taller than me.",
+"explanation": "Do not use 'more' with -er form."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"He is taller than me.",
+"He is more taller than me.",
+"He tall than me.",
+"He tallest than me."
+],
+"answer": 0,
+"explanation": "Correct comparative form."
+},
+{
+"question": "Comparative of good:",
+"options": ["better", "gooder", "more good", "best"],
+"answer": 0,
+"explanation": "Irregular form."
+},
+{
+"question": "Identify error:",
+"options": [
+"This is bigger.",
+"This is more big.",
+"She is smarter.",
+"This is better."
+],
+"answer": 1,
+"explanation": "Do not use 'more' with short adjective."
+},
+{
+"question": "Used to compare:",
+"options": [
+"One thing",
+"Two things",
+"Three things",
+"None"
+],
+"answer": 1,
+"explanation": "Comparative compares two."
+},
+{
+"question": "This exam is ____ than the last one.",
+"options": ["easier", "easy", "easiest", "more easiest"],
+"answer": 0,
+"explanation": "Correct comparative."
+}
+]
+},
+
+{
+"id": "B-014",
+"level": "beginner",
+"category": "adjectives",
+"name": "Superlative Adjectives",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "Superlatives compare three or more things. Add -est or use 'most'. Exams test article 'the' before superlatives.",
+"structure": "the + adjective + est / most + adjective",
+"keyPoints": [
+"Tall → tallest",
+"Beautiful → most beautiful",
+"Always use 'the'"
+],
+"examples": [
+"She is the tallest girl.",
+"This is the most interesting book.",
+"He is the best player."
+],
+"incorrect": {
+"sentence": "She is tallest girl.",
+"explanation": "Superlatives require 'the'."
+},
+"questions": [
+{
+"question": "He is ____ boy in class.",
+"options": ["the tallest", "tallest", "more tall", "taller"],
+"answer": 0,
+"explanation": "Superlative needs 'the'."
+},
+{
+"question": "Superlative of good:",
+"options": ["best", "goodest", "most good", "better"],
+"answer": 0,
+"explanation": "Irregular form."
+},
+{
+"question": "Identify error:",
+"options": [
+"She is the best.",
+"He is tallest.",
+"This is the biggest.",
+"He is the smartest."
+],
+"answer": 1,
+"explanation": "Missing 'the'."
+},
+{
+"question": "Used for:",
+"options": [
+"Two things",
+"Three or more",
+"Past action",
+"Future action"
+],
+"answer": 1,
+"explanation": "Superlative compares 3+."
+},
+{
+"question": "This is ____ movie I have seen.",
+"options": ["the worst", "worst", "worse", "more worse"],
+"answer": 0,
+"explanation": "Superlative requires 'the'."
+}
+]
+},
+
+{
+"id": "B-015",
+"level": "beginner",
+"category": "adverbs",
+"name": "Adverbs of Frequency",
+"xpReward": 25,
+"difficulty": 2,
+"explanation": "Adverbs of frequency show how often something happens. Exams test placement before main verb but after 'be'.",
+"structure": "Subject + adverb + main verb",
+"keyPoints": [
+"Always, usually, often, sometimes, never",
+"Before main verb",
+"After verb 'to be'"
+],
+"examples": [
+"I always wake up early.",
+"She often visits us.",
+"They are usually late."
+],
+"incorrect": {
+"sentence": "She goes always to school.",
+"explanation": "Adverb should come before main verb."
+},
+"questions": [
+{
+"question": "She ____ eats junk food.",
+"options": ["never", "eat never", "never eats to", "never eating"],
+"answer": 0,
+"explanation": "Correct placement."
+},
+{
+"question": "Correct placement:",
+"options": [
+"He always is late.",
+"He is always late.",
+"He late always is.",
+"Always he is late."
+],
+"answer": 1,
+"explanation": "After 'is'."
+},
+{
+"question": "Identify error:",
+"options": [
+"I often read.",
+"They are usually happy.",
+"He goes always there.",
+"She never lies."
+],
+"answer": 2,
+"explanation": "Wrong placement."
+},
+{
+"question": "Adverbs of frequency answer:",
+"options": [
+"When",
+"How often",
+"Where",
+"Why"
+],
+"answer": 1,
+"explanation": "They describe frequency."
+},
+{
+"question": "She is ____ absent.",
+"options": ["often", "oftenly", "more often", "most often"],
+"answer": 0,
+"explanation": "Correct frequency adverb."
+}
+]
+}
+]
+,
+{
+"id": "B-016",
+"level": "beginner",
+"category": "prepositions",
+"xpReward": 30,
+"difficulty": 2,
+"name": "Prepositions of Place (In, On, At)",
+"explanation": "Use 'in' for enclosed spaces, 'on' for surfaces, and 'at' for specific points. Exams test confusion between in/on for locations.",
+"structure": "in (area) | on (surface) | at (point)",
+"keyPoints": [
+"In a room",
+"On the table",
+"At the station"
+],
+"examples": [
+"She is in the room.",
+"The book is on the table.",
+"He is at the bus stop."
+],
+"incorrect": {
+"sentence": "She is on the room.",
+"explanation": "Room is enclosed space → use 'in'."
+},
+"questions": [
+{
+"question": "The keys are ____ the table.",
+"options": ["on", "in", "at", "to"],
+"answer": 0,
+"explanation": "Surface takes 'on'."
+},
+{
+"question": "He is waiting ____ the station.",
+"options": ["at", "in", "on", "by"],
+"answer": 0,
+"explanation": "Specific point."
+},
+{
+"question": "She is ____ the car.",
+"options": ["in", "on", "at", "to"],
+"answer": 0,
+"explanation": "Enclosed space."
+},
+{
+"question": "Identify error:",
+"options": [
+"He is in the house.",
+"The bag is on the chair.",
+"She is at the park.",
+"He is on the room."
+],
+"answer": 3,
+"explanation": "Use 'in the room'."
+},
+{
+"question": "Use 'at' for:",
+"options": [
+"Surface",
+"Area",
+"Specific point",
+"Container"
+],
+"answer": 2,
+"explanation": "'At' shows exact point."
+}
+]
+},
+
+{
+"id": "B-017",
+"level": "beginner",
+"category": "conjunctions",
+"name": "Subordinating Conjunctions (Because, Although, If)",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "Subordinating conjunctions join dependent clauses to main clauses. Exams test comma placement and clause order.",
+"structure": "Dependent clause + main clause",
+"keyPoints": [
+"Because shows reason",
+"Although shows contrast",
+"If shows condition"
+],
+"examples": [
+"I stayed home because it was raining.",
+"Although he was tired, he worked.",
+"If you try, you will succeed."
+],
+"incorrect": {
+"sentence": "Because it was raining.",
+"explanation": "Dependent clause cannot stand alone."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"Although he was tired, he finished.",
+"He was tired although.",
+"Because he was tired.",
+"If he tired, he worked."
+],
+"answer": 0,
+"explanation": "Complete sentence required."
+},
+{
+"question": "'Because' shows:",
+"options": ["Reason", "Time", "Place", "Comparison"],
+"answer": 0,
+"explanation": "It indicates reason."
+},
+{
+"question": "Identify dependent clause:",
+"options": [
+"If you study",
+"He will pass",
+"They arrived",
+"She sings"
+],
+"answer": 0,
+"explanation": "Cannot stand alone."
+},
+{
+"question": "Correct structure:",
+"options": [
+"Although he was tired he worked.",
+"Although he was tired, he worked.",
+"He worked although he was tired.",
+"Both B and C"
+],
+"answer": 3,
+"explanation": "Both are correct."
+},
+{
+"question": "If you hurry, you ____ catch the train.",
+"options": ["will", "would", "can to", "shall to"],
+"answer": 0,
+"explanation": "First conditional rule."
+}
+]
+},
+
+{
+"id": "B-018",
+"level": "beginner",
+"category": "pronouns",
+"name": "Possessive Pronouns",
+"xpReward": 25,
+"difficulty": 1,
+"explanation": "Possessive pronouns show ownership. Exams test confusion between possessive adjectives and pronouns.",
+"structure": "Mine, yours, his, hers, ours, theirs",
+"keyPoints": [
+"No noun after possessive pronoun",
+"'My book' vs 'This book is mine'",
+"No apostrophe in possessive pronouns"
+],
+"examples": [
+"This book is mine.",
+"The house is theirs.",
+"The choice is yours."
+],
+"incorrect": {
+"sentence": "This is her book is her's.",
+"explanation": "No apostrophe in possessive pronouns."
+},
+"questions": [
+{
+"question": "This pen is ____.",
+"options": ["mine", "my", "me", "I"],
+"answer": 0,
+"explanation": "Possessive pronoun."
+},
+{
+"question": "Choose correct:",
+"options": [
+"The car is her's.",
+"The car is hers.",
+"The car is she.",
+"The car is her."
+],
+"answer": 1,
+"explanation": "No apostrophe."
+},
+{
+"question": "Identify error:",
+"options": [
+"This book is mine.",
+"The house is theirs.",
+"This is her.",
+"The bag is yours."
+],
+"answer": 2,
+"explanation": "Should be 'hers'."
+},
+{
+"question": "Possessive pronouns replace:",
+"options": [
+"Noun",
+"Verb",
+"Adverb",
+"Preposition"
+],
+"answer": 0,
+"explanation": "They replace noun phrase."
+},
+{
+"question": "That seat is ____.",
+"options": ["ours", "our", "we", "us"],
+"answer": 0,
+"explanation": "Possessive pronoun."
+}
+]
+},
+
+{
+"id": "B-019",
+"level": "beginner",
+"category": "agreement",
+"name": "There is / There are",
+"xpReward": 25,
+"difficulty": 2,
+"explanation": "Use 'there is' for singular nouns and 'there are' for plural nouns. Exams test agreement with nearest noun.",
+"structure": "There is (singular) | There are (plural)",
+"keyPoints": [
+"Singular → is",
+"Plural → are",
+"Check first noun after verb"
+],
+"examples": [
+"There is a book.",
+"There are two apples.",
+"There is a problem."
+],
+"incorrect": {
+"sentence": "There is many students.",
+"explanation": "Plural noun needs 'are'."
+},
+"questions": [
+{
+"question": "There ____ three books.",
+"options": ["are", "is", "was", "has"],
+"answer": 0,
+"explanation": "Plural noun."
+},
+{
+"question": "There ____ a pen on table.",
+"options": ["is", "are", "were", "have"],
+"answer": 0,
+"explanation": "Singular noun."
+},
+{
+"question": "Identify error:",
+"options": [
+"There are many people.",
+"There is a car.",
+"There is two apples.",
+"There are students."
+],
+"answer": 2,
+"explanation": "Plural noun needs are."
+},
+{
+"question": "Agreement depends on:",
+"options": [
+"Subject",
+"Nearest noun",
+"Verb",
+"Adjective"
+],
+"answer": 1,
+"explanation": "Check first noun after verb."
+},
+{
+"question": "There ____ a lot of problems.",
+"options": ["are", "is", "was", "has"],
+"answer": 0,
+"explanation": "Plural noun."
+}
+]
+},
+
+{
+"id": "B-020",
+"level": "beginner",
+"category": "punctuation",
+"name": "Use of Capital Letters",
+"xpReward": 20,
+"difficulty": 1,
+"explanation": "Capital letters are used at the beginning of sentences, proper nouns, days, months, and nationalities. Exams test lowercase errors.",
+"structure": "Capital letter at start and proper nouns",
+"keyPoints": [
+"Names of people",
+"Countries and cities",
+"Days and months"
+],
+"examples": [
+"India is a country.",
+"Monday is a holiday.",
+"Ravi lives in Delhi."
+],
+"incorrect": {
+"sentence": "india is beautiful.",
+"explanation": "Country names need capital letter."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"india is large.",
+"India is large.",
+"india Is large.",
+"INDIA is large."
+],
+"answer": 1,
+"explanation": "Proper noun."
+},
+{
+"question": "She lives in ____.",
+"options": ["London", "london", "LONDON", "lonDon"],
+"answer": 0,
+"explanation": "City name capitalized."
+},
+{
+"question": "Identify error:",
+"options": [
+"Monday is busy.",
+"I met Ravi.",
+"we went home.",
+"Delhi is big."
+],
+"answer": 2,
+"explanation": "Sentence must start with capital."
+},
+{
+"question": "Capital letters are NOT used for:",
+"options": [
+"Proper nouns",
+"Common nouns",
+"Start of sentence",
+"Days"
+],
+"answer": 1,
+"explanation": "Common nouns are lowercase."
+},
+{
+"question": "He is from ____.",
+"options": ["France", "france", "FRance", "frAnce"],
+"answer": 0,
+"explanation": "Country name."
+}
+]
+}
+]
+,
+{
+"id": "B-021",
+"level": "beginner",
+"category": "tenses",
+"xpReward": 30,
+"difficulty": 2,
+"name": "Present Perfect Tense",
+"explanation": "Used for actions completed at an unspecified time or with present relevance. Exams test confusion between past simple and present perfect.",
+"structure": "Subject + has/have + past participle",
+"keyPoints": [
+"Use with already, yet, just",
+"Do not use specific past time",
+"He/She/It → has"
+],
+"examples": [
+"I have finished my work.",
+"She has completed the task.",
+"They have visited Delhi."
+],
+"incorrect": {
+"sentence": "I have finished yesterday.",
+"explanation": "Do not use specific past time with present perfect."
+},
+"questions": [
+{
+"question": "She ____ completed the work.",
+"options": ["has", "have", "had", "having"],
+"answer": 0,
+"explanation": "Singular subject takes 'has'."
+},
+{
+"question": "Choose correct:",
+"options": [
+"I have seen that movie.",
+"I have saw that movie.",
+"I has seen that movie.",
+"I seen that movie."
+],
+"answer": 0,
+"explanation": "Past participle needed."
+},
+{
+"question": "Identify error:",
+"options": [
+"They have finished.",
+"He has gone.",
+"I have completed yesterday.",
+"She has done it."
+],
+"answer": 2,
+"explanation": "Specific past time not allowed."
+},
+{
+"question": "Present perfect uses:",
+"options": [
+"Has/have + past participle",
+"Had + verb",
+"Will + verb",
+"Is + verb"
+],
+"answer": 0,
+"explanation": "Correct structure."
+},
+{
+"question": "They ____ already left.",
+"options": ["have", "has", "had", "are"],
+"answer": 0,
+"explanation": "Plural subject."
+}
+]
+},
+
+{
+"id": "B-022",
+"level": "beginner",
+"category": "tenses",
+"name": "Past Continuous Tense",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "Used for actions ongoing at a specific time in the past. Exams test interruption cases (when/while).",
+"structure": "Subject + was/were + verb-ing",
+"keyPoints": [
+"Action in progress in past",
+"Often used with 'when'",
+"Singular → was, plural → were"
+],
+"examples": [
+"I was studying.",
+"They were playing.",
+"She was cooking."
+],
+"incorrect": {
+"sentence": "They was playing.",
+"explanation": "Plural subject needs 'were'."
+},
+"questions": [
+{
+"question": "She ____ reading when I called.",
+"options": ["was", "were", "is", "has"],
+"answer": 0,
+"explanation": "Singular subject."
+},
+{
+"question": "They ____ watching TV.",
+"options": ["were", "was", "is", "has"],
+"answer": 0,
+"explanation": "Plural subject."
+},
+{
+"question": "Structure:",
+"options": [
+"Was/were + ing",
+"Has + verb",
+"Will + verb",
+"Had + verb"
+],
+"answer": 0,
+"explanation": "Correct structure."
+},
+{
+"question": "Identify error:",
+"options": [
+"He was running.",
+"They were studying.",
+"She were dancing.",
+"I was sleeping."
+],
+"answer": 2,
+"explanation": "She takes was."
+},
+{
+"question": "Past continuous shows:",
+"options": [
+"Completed action",
+"Ongoing past action",
+"Future plan",
+"Habit"
+],
+"answer": 1,
+"explanation": "Ongoing in past."
+}
+]
+},
+
+{
+"id": "B-023",
+"level": "beginner",
+"category": "agreement",
+"name": "Either...Or / Neither...Nor",
+"xpReward": 30,
+"difficulty": 3,
+"explanation": "With 'either...or' and 'neither...nor', the verb agrees with the nearest subject. Exams frequently test this rule.",
+"structure": "Either A or B + verb (agree with nearest subject)",
+"keyPoints": [
+"Nearest noun decides verb",
+"Neither is singular",
+"Watch exam traps"
+],
+"examples": [
+"Either John or his friends are coming.",
+"Neither the boys nor the teacher is here.",
+"Either she or I am responsible."
+],
+"incorrect": {
+"sentence": "Neither the boys nor the teacher are here.",
+"explanation": "Nearest subject 'teacher' is singular."
+},
+"questions": [
+{
+"question": "Either he or his friends ____ coming.",
+"options": ["are", "is", "was", "has"],
+"answer": 0,
+"explanation": "Nearest noun 'friends' is plural."
+},
+{
+"question": "Neither Ram nor Shyam ____ present.",
+"options": ["is", "are", "were", "have"],
+"answer": 0,
+"explanation": "Nearest noun singular."
+},
+{
+"question": "Identify error:",
+"options": [
+"Either she or I am ready.",
+"Neither he nor they are late.",
+"Either boys or teacher are present.",
+"Neither boys nor teacher is present."
+],
+"answer": 2,
+"explanation": "Nearest subject 'teacher' singular."
+},
+{
+"question": "Verb agrees with:",
+"options": [
+"First subject",
+"Nearest subject",
+"Plural subject",
+"Main clause"
+],
+"answer": 1,
+"explanation": "Nearest noun rule."
+},
+{
+"question": "Neither the teacher nor the students ____ ready.",
+"options": ["are", "is", "was", "has"],
+"answer": 0,
+"explanation": "Nearest noun plural."
+}
+]
+},
+
+{
+"id": "B-024",
+"level": "beginner",
+"category": "adverbs",
+"name": "Adverbs of Manner",
+"xpReward": 25,
+"difficulty": 2,
+"explanation": "Adverbs of manner describe how an action happens. Often formed by adding -ly to adjectives.",
+"structure": "Verb + adverb",
+"keyPoints": [
+"Quick → quickly",
+"Happy → happily",
+"Good → well (irregular)"
+],
+"examples": [
+"She speaks clearly.",
+"He runs fast.",
+"They worked carefully."
+],
+"incorrect": {
+"sentence": "She sings beautiful.",
+"explanation": "Should use adverb 'beautifully'."
+},
+"questions": [
+{
+"question": "She sings ____.",
+"options": ["beautifully", "beautiful", "beauty", "more beautiful"],
+"answer": 0,
+"explanation": "Adverb needed."
+},
+{
+"question": "Adverbs modify:",
+"options": [
+"Nouns",
+"Verbs",
+"Prepositions",
+"Articles"
+],
+"answer": 1,
+"explanation": "They modify verbs."
+},
+{
+"question": "Identify error:",
+"options": [
+"He runs quickly.",
+"She speaks fluent.",
+"They drive carefully.",
+"He writes neatly."
+],
+"answer": 1,
+"explanation": "Should be fluently."
+},
+{
+"question": "Correct irregular form:",
+"options": ["well", "goodly", "good", "betterly"],
+"answer": 0,
+"explanation": "Good → well."
+},
+{
+"question": "They completed work ____.",
+"options": ["carefully", "careful", "care", "more careful"],
+"answer": 0,
+"explanation": "Adverb required."
+}
+]
+},
+
+{
+"id": "B-025",
+"level": "beginner",
+"category": "punctuation",
+"name": "Use of Comma in Lists",
+"xpReward": 20,
+"difficulty": 1,
+"explanation": "Use commas to separate items in a list. Exams test missing comma errors.",
+"structure": "Item, item, and item",
+"keyPoints": [
+"Separate three or more items",
+"Comma before conjunction optional (Oxford comma)",
+"Improves clarity"
+],
+"examples": [
+"I bought apples, oranges, and bananas.",
+"She likes tea, coffee, and milk.",
+"They invited Ram, Ravi, and Sita."
+],
+"incorrect": {
+"sentence": "I bought apples oranges and bananas.",
+"explanation": "Commas required in list."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"I bought apples, oranges, and bananas.",
+"I bought apples oranges and bananas.",
+"I bought apples oranges, and bananas.",
+"I bought apples, oranges and bananas,"
+],
+"answer": 0,
+"explanation": "Proper comma usage."
+},
+{
+"question": "Comma separates:",
+"options": [
+"Paragraphs",
+"List items",
+"Subjects",
+"Verbs"
+],
+"answer": 1,
+"explanation": "List items."
+},
+{
+"question": "Identify error:",
+"options": [
+"She likes tea, coffee and milk.",
+"He bought pen, pencil, and eraser.",
+"They invited Ram Ravi and Sita.",
+"We saw cats, dogs, and birds."
+],
+"answer": 2,
+"explanation": "Missing commas."
+},
+{
+"question": "Comma improves:",
+"options": [
+"Confusion",
+"Clarity",
+"Tense",
+"Voice"
+],
+"answer": 1,
+"explanation": "Clear separation."
+},
+{
+"question": "Correct form:",
+"options": [
+"Apples oranges bananas",
+"Apples, oranges, bananas",
+"Apples oranges, bananas",
+"Apples, oranges bananas"
+],
+"answer": 1,
+"explanation": "Comma separation."
+}
+]
+}
+]
+,
+{
+"id": "B-026",
+"level": "beginner",
+"category": "modals",
+"xpReward": 30,
+"difficulty": 2,
+"name": "Modal Verb: May",
+"explanation": "'May' expresses permission (formal) or possibility. Exams test difference between can and may.",
+"structure": "Subject + may + base verb",
+"keyPoints": [
+"Formal permission",
+"Possibility",
+"No 'to' after may"
+],
+"examples": [
+"May I come in?",
+"It may rain today.",
+"You may leave now."
+],
+"incorrect": {
+"sentence": "She may to come.",
+"explanation": "Modal verbs take base verb without 'to'."
+},
+"questions": [
+{
+"question": "It ____ rain tomorrow.",
+"options": ["may", "may to", "mays", "may be"],
+"answer": 0,
+"explanation": "Expresses possibility."
+},
+{
+"question": "Choose formal permission:",
+"options": [
+"Can I go?",
+"May I go?",
+"I may go?",
+"I can to go?"
+],
+"answer": 1,
+"explanation": "'May' is formal."
+},
+{
+"question": "Identify error:",
+"options": [
+"She may come.",
+"You may leave.",
+"He may to sit.",
+"It may snow."
+],
+"answer": 2,
+"explanation": "Remove 'to'."
+},
+{
+"question": "'May' expresses:",
+"options": [
+"Ability",
+"Possibility",
+"Past action",
+"Comparison"
+],
+"answer": 1,
+"explanation": "Indicates possibility."
+},
+{
+"question": "She ____ join us later.",
+"options": ["may", "may to", "mays", "is may"],
+"answer": 0,
+"explanation": "Base verb follows."
+}
+]
+},
+
+{
+"id": "B-027",
+"level": "beginner",
+"category": "pronouns",
+"name": "Reflexive Pronouns",
+"xpReward": 25,
+"difficulty": 2,
+"explanation": "Reflexive pronouns are used when subject and object are same. Exams test unnecessary use.",
+"structure": "myself, yourself, himself, herself, itself, ourselves, themselves",
+"keyPoints": [
+"Subject = object",
+"Used for emphasis",
+"Not used unnecessarily"
+],
+"examples": [
+"She hurt herself.",
+"I did it myself.",
+"They enjoyed themselves."
+],
+"incorrect": {
+"sentence": "Myself went to school.",
+"explanation": "Reflexive pronoun cannot be subject."
+},
+"questions": [
+{
+"question": "She prepared ____.",
+"options": ["herself", "her", "she", "hers"],
+"answer": 0,
+"explanation": "Subject = object."
+},
+{
+"question": "Choose correct:",
+"options": [
+"He himself completed it.",
+"Myself completed it.",
+"Himself completed it.",
+"He completed itself."
+],
+"answer": 0,
+"explanation": "Correct usage."
+},
+{
+"question": "Identify error:",
+"options": [
+"I hurt myself.",
+"They blamed themselves.",
+"Myself did the work.",
+"She enjoyed herself."
+],
+"answer": 2,
+"explanation": "Reflexive cannot be subject."
+},
+{
+"question": "Reflexive pronoun used for:",
+"options": [
+"Different subject/object",
+"Same subject/object",
+"Future tense",
+"Past tense"
+],
+"answer": 1,
+"explanation": "Same subject and object."
+},
+{
+"question": "We introduced ____.",
+"options": ["ourselves", "us", "we", "our"],
+"answer": 0,
+"explanation": "Correct reflexive."
+}
+]
+},
+
+{
+"id": "B-028",
+"level": "beginner",
+"category": "adjectives",
+"name": "Order of Adjectives",
+"xpReward": 30,
+"difficulty": 3,
+"explanation": "Adjectives follow a specific order: Opinion, Size, Age, Shape, Color, Origin, Material, Purpose (OSASCOMP). Exams test wrong order.",
+"structure": "Opinion → Size → Age → Shape → Color → Origin → Material → Purpose",
+"keyPoints": [
+"Opinion comes first",
+"Material near noun",
+"Follow OSASCOMP"
+],
+"examples": [
+"A beautiful big old house.",
+"A small red car.",
+"A lovely wooden chair."
+],
+"incorrect": {
+"sentence": "A wooden lovely chair.",
+"explanation": "Opinion comes before material."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"A small red car",
+"A red small car",
+"A car small red",
+"Small car red"
+],
+"answer": 0,
+"explanation": "Correct adjective order."
+},
+{
+"question": "Opinion adjective:",
+"options": ["Beautiful", "Wooden", "Indian", "Round"],
+"answer": 0,
+"explanation": "Opinion category."
+},
+{
+"question": "Identify error:",
+"options": [
+"A big blue box",
+"A wooden old chair",
+"A small black dog",
+"A new Italian car"
+],
+"answer": 1,
+"explanation": "Age before material."
+},
+{
+"question": "OSASCOMP helps with:",
+"options": [
+"Tense",
+"Adjective order",
+"Verb form",
+"Pronoun usage"
+],
+"answer": 1,
+"explanation": "It is adjective order rule."
+},
+{
+"question": "Correct form:",
+"options": [
+"A lovely small bag",
+"A small lovely bag",
+"A bag small lovely",
+"A lovely bag small"
+],
+"answer": 0,
+"explanation": "Opinion before size."
+}
+]
+},
+
+{
+"id": "B-029",
+"level": "beginner",
+"category": "prepositions",
+"name": "Prepositions of Direction (To, Into, Onto)",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "'To' shows movement toward a place. 'Into' shows movement inside. 'Onto' shows movement to surface.",
+"structure": "to (toward) | into (inside) | onto (surface)",
+"keyPoints": [
+"Go to school",
+"Walk into room",
+"Jump onto table"
+],
+"examples": [
+"She went to the market.",
+"He walked into the room.",
+"The cat jumped onto the table."
+],
+"incorrect": {
+"sentence": "He walked to the room (entering meaning).",
+"explanation": "Use 'into' for entering."
+},
+"questions": [
+{
+"question": "She walked ____ the room.",
+"options": ["into", "to", "onto", "at"],
+"answer": 0,
+"explanation": "Entering inside."
+},
+{
+"question": "He jumped ____ the bed.",
+"options": ["onto", "into", "to", "at"],
+"answer": 0,
+"explanation": "Surface movement."
+},
+{
+"question": "They went ____ school.",
+"options": ["to", "into", "onto", "at"],
+"answer": 0,
+"explanation": "Movement toward."
+},
+{
+"question": "Identify error:",
+"options": [
+"He walked into the house.",
+"She went to market.",
+"They jumped onto table.",
+"He entered into the room."
+],
+"answer": 3,
+"explanation": "Entered already implies into."
+},
+{
+"question": "Use 'into' for:",
+"options": [
+"Surface",
+"Inside movement",
+"Point",
+"Time"
+],
+"answer": 1,
+"explanation": "Shows movement inside."
+}
+]
+},
+
+{
+"id": "B-030",
+"level": "beginner",
+"category": "agreement",
+"name": "Countable and Uncountable Nouns",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "Countable nouns can be counted (books). Uncountable nouns cannot (water, information). Exams test wrong plural forms.",
+"structure": "Countable → many/few | Uncountable → much/little",
+"keyPoints": [
+"Information is uncountable",
+"Advice is uncountable",
+"No plural 'informations'"
+],
+"examples": [
+"Many books",
+"Much water",
+"Little sugar"
+],
+"incorrect": {
+"sentence": "He gave me many informations.",
+"explanation": "Information is uncountable."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"Much water",
+"Many water",
+"Water are",
+"Waters"
+],
+"answer": 0,
+"explanation": "Water is uncountable."
+},
+{
+"question": "She gave me ____ advice.",
+"options": ["some", "many", "few", "an"],
+"answer": 0,
+"explanation": "Advice is uncountable."
+},
+{
+"question": "Identify error:",
+"options": [
+"Many books",
+"Few apples",
+"Many informations",
+"Much sugar"
+],
+"answer": 2,
+"explanation": "No plural form."
+},
+{
+"question": "Uncountable nouns use:",
+"options": [
+"Few",
+"Many",
+"Much",
+"A"
+],
+"answer": 2,
+"explanation": "Much for uncountable."
+},
+{
+"question": "Correct:",
+"options": [
+"A piece of advice",
+"An advice",
+"Many advices",
+"Advices"
+],
+"answer": 0,
+"explanation": "Correct expression."
+}
+]
+}
+]
+,
+{
+"id": "B-031",
+"level": "beginner",
+"category": "tenses",
+"xpReward": 30,
+"difficulty": 2,
+"name": "Future with Going To",
+"explanation": "Used for planned future actions or strong predictions based on evidence. Exams test confusion with 'will'.",
+"structure": "Subject + am/is/are + going to + base verb",
+"keyPoints": [
+"Planned action",
+"Strong evidence prediction",
+"Use correct form of be"
+],
+"examples": [
+"I am going to study tonight.",
+"She is going to travel.",
+"They are going to win."
+],
+"incorrect": {
+"sentence": "She going to travel.",
+"explanation": "Missing auxiliary verb."
+},
+"questions": [
+{
+"question": "She ____ going to leave.",
+"options": ["is", "are", "am", "be"],
+"answer": 0,
+"explanation": "Singular subject."
+},
+{
+"question": "Used for:",
+"options": [
+"Past habit",
+"Planned future",
+"Completed action",
+"Comparison"
+],
+"answer": 1,
+"explanation": "Planned action."
+},
+{
+"question": "Identify error:",
+"options": [
+"I am going to eat.",
+"She is going to come.",
+"They going to win.",
+"We are going to play."
+],
+"answer": 2,
+"explanation": "Missing auxiliary."
+},
+{
+"question": "Structure includes:",
+"options": [
+"Will + verb",
+"Has + verb",
+"Am/is/are + going to",
+"Had + verb"
+],
+"answer": 2,
+"explanation": "Correct structure."
+},
+{
+"question": "They ____ going to start.",
+"options": ["are", "is", "am", "be"],
+"answer": 0,
+"explanation": "Plural subject."
+}
+]
+},
+
+{
+"id": "B-032",
+"level": "beginner",
+"category": "modals",
+"name": "Modal Verb: Should",
+"xpReward": 30,
+"difficulty": 2,
+"explanation": "'Should' expresses advice or mild obligation. Exams test difference between should and must.",
+"structure": "Subject + should + base verb",
+"keyPoints": [
+"Advice",
+"Mild obligation",
+"No 'to' after should"
+],
+"examples": [
+"You should study.",
+"He should apologize.",
+"We should try again."
+],
+"incorrect": {
+"sentence": "You should to study.",
+"explanation": "No 'to' after modal."
+},
+"questions": [
+{
+"question": "You ____ respect elders.",
+"options": ["should", "should to", "shoulds", "shoulded"],
+"answer": 0,
+"explanation": "Correct modal use."
+},
+{
+"question": "'Should' shows:",
+"options": [
+"Advice",
+"Past tense",
+"Future tense",
+"Ownership"
+],
+"answer": 0,
+"explanation": "It gives advice."
+},
+{
+"question": "Identify error:",
+"options": [
+"She should work hard.",
+"He should to sleep.",
+"They should try.",
+"I should go."
+],
+"answer": 1,
+"explanation": "Remove 'to'."
+},
+{
+"question": "Structure:",
+"options": [
+"Should + verb",
+"Should + to verb",
+"Should + verb+ing",
+"Should + past"
+],
+"answer": 0,
+"explanation": "Base verb follows."
+},
+{
+"question": "He ____ apologize.",
+"options": ["should", "should to", "shoulds", "shoulding"],
+"answer": 0,
+"explanation": "Base form."
+}
+]
+},
+
+{
+"id": "B-033",
+"level": "beginner",
+"category": "pronouns",
+"name": "Demonstrative Pronouns",
+"xpReward": 25,
+"difficulty": 1,
+"explanation": "This/That (singular), These/Those (plural). Exams test singular-plural agreement.",
+"structure": "This/That + singular | These/Those + plural",
+"keyPoints": [
+"Near → this/these",
+"Far → that/those",
+"Match noun number"
+],
+"examples": [
+"This book is mine.",
+"Those apples are fresh.",
+"These students are ready."
+],
+"incorrect": {
+"sentence": "This apples are good.",
+"explanation": "Plural noun needs 'these'."
+},
+"questions": [
+{
+"question": "____ books are new.",
+"options": ["These", "This", "That", "It"],
+"answer": 0,
+"explanation": "Plural noun."
+},
+{
+"question": "____ pen is mine.",
+"options": ["This", "These", "Those", "Them"],
+"answer": 0,
+"explanation": "Singular near."
+},
+{
+"question": "Identify error:",
+"options": [
+"Those cars are fast.",
+"This boy is tall.",
+"These dog is small.",
+"That house is big."
+],
+"answer": 2,
+"explanation": "Plural form required."
+},
+{
+"question": "Far and plural:",
+"options": ["Those", "These", "This", "That"],
+"answer": 0,
+"explanation": "Correct usage."
+},
+{
+"question": "Near and singular:",
+"options": ["This", "Those", "These", "Them"],
+"answer": 0,
+"explanation": "Correct form."
+}
+]
+},
+
+{
+"id": "B-034",
+"level": "beginner",
+"category": "adverbs",
+"name": "Adverbs of Time",
+"xpReward": 25,
+"difficulty": 1,
+"explanation": "Adverbs of time tell when something happens (yesterday, today, tomorrow). Exams test tense consistency.",
+"structure": "Subject + verb + time adverb",
+"keyPoints": [
+"Yesterday → past",
+"Tomorrow → future",
+"Today → present context"
+],
+"examples": [
+"I met him yesterday.",
+"She will come tomorrow.",
+"They are leaving today."
+],
+"incorrect": {
+"sentence": "I meet him yesterday.",
+"explanation": "Past tense required."
+},
+"questions": [
+{
+"question": "He ____ yesterday.",
+"options": ["came", "comes", "coming", "come"],
+"answer": 0,
+"explanation": "Yesterday indicates past."
+},
+{
+"question": "Tomorrow indicates:",
+"options": [
+"Past",
+"Present",
+"Future",
+"Habit"
+],
+"answer": 2,
+"explanation": "Future action."
+},
+{
+"question": "Identify error:",
+"options": [
+"I saw him yesterday.",
+"She will go tomorrow.",
+"He goes yesterday.",
+"They are coming today."
+],
+"answer": 2,
+"explanation": "Wrong tense."
+},
+{
+"question": "Adverbs of time answer:",
+"options": [
+"When",
+"How",
+"Where",
+"Why"
+],
+"answer": 0,
+"explanation": "They answer when."
+},
+{
+"question": "She ____ tomorrow.",
+"options": ["will arrive", "arrived", "arrives yesterday", "arriving"],
+"answer": 0,
+"explanation": "Future context."
+}
+]
+},
+
+{
+"id": "B-035",
+"level": "beginner",
+"category": "punctuation",
+"name": "Use of Question Mark",
+"xpReward": 20,
+"difficulty": 1,
+"explanation": "A question mark is used at the end of direct questions. Exams test missing punctuation.",
+"structure": "Sentence + ?",
+"keyPoints": [
+"Used for direct questions",
+"Not for indirect questions",
+"Ends interrogative sentence"
+],
+"examples": [
+"Where are you?",
+"Did he come?",
+"Are you ready?"
+],
+"incorrect": {
+"sentence": "Where are you.",
+"explanation": "Question requires '?'."
+},
+"questions": [
+{
+"question": "Choose correct:",
+"options": [
+"Where are you?",
+"Where are you.",
+"Where are you!",
+"Where are you,"
+],
+"answer": 0,
+"explanation": "Question mark needed."
+},
+{
+"question": "Used in:",
+"options": [
+"Statement",
+"Question",
+"Command",
+"Exclamation"
+],
+"answer": 1,
+"explanation": "Interrogative sentence."
+},
+{
+"question": "Identify error:",
+"options": [
+"Did he come?",
+"She asked where he was.",
+"Are you coming.",
+"Why did you leave?"
+],
+"answer": 2,
+"explanation": "Missing '?'."
+},
+{
+"question": "Indirect question uses:",
+"options": [
+"Question mark",
+"Full stop",
+"Comma",
+"Semicolon"
+],
+"answer": 1,
+"explanation": "Ends with period."
+},
+{
+"question": "He asked, \"Are you ready?\" – punctuation is:",
+"options": ["Correct", "Incorrect", "Missing", "Wrong tense"],
+"answer": 0,
+"explanation": "Correct usage."
+}
+]
+}
+]

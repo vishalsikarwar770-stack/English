@@ -1,0 +1,2579 @@
+[
+{
+"id": "A-001",
+"level": "advanced",
+"category": "inversion",
+"xpReward": 70,
+"difficulty": 5,
+"name": "Advanced Negative Inversion",
+"explanation": "When negative or limiting expressions begin a sentence (rarely, never, hardly), subject-auxiliary inversion is required.",
+"structure": "Negative adverb + auxiliary + subject + base verb",
+"keyPoints": [
+"Inversion required after negative starters",
+"Common in formal writing",
+"No inversion if negative not at beginning"
+],
+"examples": [
+"Rarely have I seen such beauty.",
+"Never did she complain.",
+"Hardly had he arrived when it started raining."
+],
+"incorrect": {
+"sentence": "Rarely I have seen such beauty.",
+"explanation": "Inversion required after negative starter."
+},
+"questions": [
+{
+"question": "Correct inversion:",
+"options": [
+"Never have I understood this.",
+"Never I have understood this.",
+"I never have understood this.",
+"Have never I understood this."
+],
+"answer": 0,
+"explanation": "Auxiliary precedes subject."
+},
+{
+"question": "Inversion required after:",
+"options": ["Negative adverb", "Subject", "Adjective", "Noun"],
+"answer": 0,
+"explanation": "Triggered by negative opener."
+},
+{
+"question": "Identify correct sentence:",
+"options": [
+"Rarely she goes out.",
+"Rarely does she go out.",
+"She rarely does go out.",
+"Rarely she does go out."
+],
+"answer": 1,
+"explanation": "Auxiliary + subject."
+},
+{
+"question": "Hardly had he arrived means:",
+"options": [
+"He arrived long ago",
+"He just arrived",
+"He will arrive",
+"He rarely arrives"
+],
+"answer": 1,
+"explanation": "Event happened just before another."
+},
+{
+"question": "No inversion if negative:",
+"options": [
+"Mid-sentence",
+"At beginning",
+"In formal writing",
+"In questions"
+],
+"answer": 0,
+"explanation": "Only when starting sentence."
+}
+]
+},
+
+{
+"id": "A-002",
+"level": "advanced",
+"category": "subjunctive",
+"name": "Advanced Subjunctive Mood",
+"xpReward": 75,
+"difficulty": 5,
+"explanation": "The subjunctive expresses demands, suggestions, or hypothetical situations using base verb forms.",
+"structure": "Verb + that + subject + base verb",
+"keyPoints": [
+"Base verb used",
+"No -s in third person",
+"Common after suggest, demand, recommend"
+],
+"examples": [
+"They recommended that he resign.",
+"It is essential that she be present.",
+"I suggest that he study harder."
+],
+"incorrect": {
+"sentence": "They recommended that he resigns.",
+"explanation": "Subjunctive uses base verb."
+},
+"questions": [
+{
+"question": "Correct form:",
+"options": [
+"It is vital that he be informed.",
+"It is vital that he is informed.",
+"It is vital that he was informed.",
+"It is vital that he being informed."
+],
+"answer": 0,
+"explanation": "Base verb in subjunctive."
+},
+{
+"question": "Subjunctive common after:",
+"options": ["Demand", "Adjective", "Article", "Pronoun"],
+"answer": 0,
+"explanation": "Used after demanding verbs."
+},
+{
+"question": "She suggested that he ____ early.",
+"options": ["leave", "leaves", "left", "leaving"],
+"answer": 0,
+"explanation": "Base verb required."
+},
+{
+"question": "Identify error:",
+"options": [
+"I recommend that she go.",
+"It is important that he be here.",
+"They insisted that she stays.",
+"He suggested that we try."
+],
+"answer": 2,
+"explanation": "Should be 'stay'."
+},
+{
+"question": "Subjunctive shows:",
+"options": ["Necessity or demand", "Past event", "Habit", "Certainty"],
+"answer": 0,
+"explanation": "Expresses necessity."
+}
+]
+},
+
+{
+"id": "A-003",
+"level": "advanced",
+"category": "ellipsis",
+"name": "Ellipsis and Omission",
+"xpReward": 65,
+"difficulty": 4,
+"explanation": "Ellipsis omits repeated words when meaning is clear. Common in comparisons and parallel structures.",
+"structure": "Omit repeated verb/phrase",
+"keyPoints": [
+"Avoid unnecessary repetition",
+"Meaning must remain clear",
+"Common in comparative sentences"
+],
+"examples": [
+"She can play the guitar, and he can too.",
+"I work harder than she does.",
+"He likes coffee more than tea."
+],
+"incorrect": {
+"sentence": "She can play the guitar and he can play the guitar too.",
+"explanation": "Unnecessary repetition."
+},
+"questions": [
+{
+"question": "Ellipsis removes:",
+"options": ["Repeated words", "Subject", "Verb always", "Meaning"],
+"answer": 0,
+"explanation": "Removes repetition."
+},
+{
+"question": "Correct elliptical form:",
+"options": [
+"I work harder than she does.",
+"I work harder than she do.",
+"I work harder than she.",
+"I work harder than does she."
+],
+"answer": 0,
+"explanation": "Correct auxiliary use."
+},
+{
+"question": "Ellipsis improves:",
+"options": ["Conciseness", "Confusion", "Length", "Complexity"],
+"answer": 0,
+"explanation": "Makes writing concise."
+},
+{
+"question": "Identify correct omission:",
+"options": [
+"She sings better than him.",
+"She sings better than he.",
+"She sings better than he does.",
+"She sings better than does he."
+],
+"answer": 2,
+"explanation": "Correct elliptical structure."
+},
+{
+"question": "Ellipsis common in:",
+"options": ["Comparisons", "Commands", "Questions only", "Fragments"],
+"answer": 0,
+"explanation": "Frequent in comparisons."
+}
+]
+},
+
+{
+"id": "A-004",
+"level": "advanced",
+"category": "nominalization",
+"name": "Nominalization",
+"xpReward": 70,
+"difficulty": 5,
+"explanation": "Nominalization converts verbs or adjectives into nouns. Overuse makes writing heavy and less direct.",
+"structure": "Verb → Noun (decide → decision)",
+"keyPoints": [
+"Common in academic writing",
+"May reduce clarity",
+"Use carefully"
+],
+"examples": [
+"The decision was unexpected.",
+"Her refusal surprised us.",
+"The expansion of the company was rapid."
+],
+"incorrect": {
+"sentence": "The making of a decision was done by him.",
+"explanation": "Over-nominalized and awkward."
+},
+"questions": [
+{
+"question": "Nominalization turns verbs into:",
+"options": ["Nouns", "Adverbs", "Adjectives", "Clauses"],
+"answer": 0,
+"explanation": "Verb → noun."
+},
+{
+"question": "Better sentence:",
+"options": [
+"He made a decision.",
+"He made the making of a decision.",
+"The decision making was made by him.",
+"The decision was made by the making."
+],
+"answer": 0,
+"explanation": "Clearer structure."
+},
+{
+"question": "Nominalization common in:",
+"options": ["Academic writing", "Slang", "Informal speech", "Commands"],
+"answer": 0,
+"explanation": "Academic style."
+},
+{
+"question": "Overuse may cause:",
+"options": ["Wordiness", "Clarity", "Speed", "Accuracy"],
+"answer": 0,
+"explanation": "Makes writing heavy."
+},
+{
+"question": "Refusal comes from:",
+"options": ["Refuse", "Refused", "Refusing", "Refuses"],
+"answer": 0,
+"explanation": "Verb → noun."
+}
+]
+},
+
+{
+"id": "A-005",
+"level": "advanced",
+"category": "parallelism",
+"name": "Advanced Parallel Structure",
+"xpReward": 75,
+"difficulty": 5,
+"explanation": "Parallelism ensures equal grammatical structure in lists and comparisons. Exams test imbalance.",
+"structure": "Same grammatical pattern in series",
+"keyPoints": [
+"Match verb forms",
+"Match noun forms",
+"Maintain consistency"
+],
+"examples": [
+"She enjoys reading, writing, and swimming.",
+"He likes to run, to swim, and to cycle.",
+"They are intelligent, hardworking, and reliable."
+],
+"incorrect": {
+"sentence": "She enjoys reading, to write, and swimming.",
+"explanation": "Mixed verb forms."
+},
+"questions": [
+{
+"question": "Correct parallel structure:",
+"options": [
+"He likes running, swimming, and cycling.",
+"He likes running, to swim, and cycling.",
+"He likes run, swim, and cycling.",
+"He likes running, swim, cycling."
+],
+"answer": 0,
+"explanation": "All gerunds."
+},
+{
+"question": "Parallelism improves:",
+"options": ["Clarity & rhythm", "Errors", "Length only", "Fragments"],
+"answer": 0,
+"explanation": "Improves flow."
+},
+{
+"question": "Identify imbalance:",
+"options": [
+"She is smart, kind, and honest.",
+"He likes reading, writing, and to swim.",
+"They sang, danced, and laughed.",
+"We planned, prepared, and executed."
+],
+"answer": 1,
+"explanation": "Mixed verb forms."
+},
+{
+"question": "Parallel lists must have:",
+"options": ["Same structure", "Different tense", "Different subject", "Random form"],
+"answer": 0,
+"explanation": "Consistency required."
+},
+{
+"question": "Parallelism common in:",
+"options": ["Formal writing", "Poetry", "Speeches", "All of the above"],
+"answer": 3,
+"explanation": "Widely used stylistic tool."
+}
+]
+}
+]
+,
+{
+"id": "A-006",
+"level": "advanced",
+"category": "focus_structures",
+"xpReward": 70,
+"difficulty": 5,
+"name": "Cleft Sentences",
+"explanation": "Cleft sentences emphasize a specific part of a sentence using 'It is/was ... that/who'.",
+"structure": "It + be + focus + that/who + clause",
+"keyPoints": [
+"Used for emphasis",
+"Does not change basic meaning",
+"Focus element placed after 'be'"
+],
+"examples": [
+"It was John who broke the vase.",
+"It is honesty that matters most.",
+"It was yesterday that we met."
+],
+"incorrect": {
+"sentence": "It was John broke the vase.",
+"explanation": "Missing 'who/that' connector."
+},
+"questions": [
+{
+"question": "Correct cleft sentence:",
+"options": [
+"It was she who called.",
+"It was she called.",
+"It she was who called.",
+"Was it she called."
+],
+"answer": 0,
+"explanation": "Correct cleft structure."
+},
+{
+"question": "Cleft sentences emphasize:",
+"options": ["One element", "Verb only", "Subject only", "Tense"],
+"answer": 0,
+"explanation": "Focus element emphasized."
+},
+{
+"question": "Choose correct form:",
+"options": [
+"It is money that motivates him.",
+"It is money motivates him.",
+"It money is that motivates him.",
+"It is that money motivates him."
+],
+"answer": 0,
+"explanation": "Proper cleft structure."
+},
+{
+"question": "Connector used:",
+"options": ["That/Who", "Because", "If", "Although"],
+"answer": 0,
+"explanation": "Standard cleft connector."
+},
+{
+"question": "Cleft structure begins with:",
+"options": ["It + be", "There is", "Subject", "Verb"],
+"answer": 0,
+"explanation": "Always starts with It + be."
+}
+]
+},
+
+{
+"id": "A-007",
+"level": "advanced",
+"category": "focus_structures",
+"name": "Pseudo-Cleft Sentences",
+"xpReward": 75,
+"difficulty": 5,
+"explanation": "Pseudo-cleft sentences begin with a WH-clause and emphasize information in the complement.",
+"structure": "What + clause + be + focus",
+"keyPoints": [
+"Begins with what/where/why",
+"Focus placed after 'be'",
+"Common in formal speech"
+],
+"examples": [
+"What I need is a vacation.",
+"What surprised me was her reaction.",
+"What matters most is honesty."
+],
+"incorrect": {
+"sentence": "What I need a vacation is.",
+"explanation": "Incorrect word order."
+},
+"questions": [
+{
+"question": "Correct pseudo-cleft:",
+"options": [
+"What I want is success.",
+"What I want success is.",
+"What is I want success.",
+"I want what is success."
+],
+"answer": 0,
+"explanation": "Correct WH + be structure."
+},
+{
+"question": "Pseudo-cleft starts with:",
+"options": ["WH-word", "It", "Verb", "Subject"],
+"answer": 0,
+"explanation": "Begins with WH clause."
+},
+{
+"question": "What matters most ____ honesty.",
+"options": ["is", "are", "be", "was being"],
+"answer": 0,
+"explanation": "Singular complement."
+},
+{
+"question": "Pseudo-cleft emphasizes:",
+"options": ["Complement", "Tense", "Article", "Adverb"],
+"answer": 0,
+"explanation": "Focus element after 'be'."
+},
+{
+"question": "Identify correct form:",
+"options": [
+"What impressed me was her confidence.",
+"What impressed me her confidence was.",
+"What was impressed me her confidence.",
+"Impressed what me was her confidence."
+],
+"answer": 0,
+"explanation": "Correct structure."
+}
+]
+},
+
+{
+"id": "A-008",
+"level": "advanced",
+"category": "emphasis",
+"name": "Fronting for Emphasis",
+"xpReward": 70,
+"difficulty": 5,
+"explanation": "Fronting moves an element to the beginning of a sentence for emphasis.",
+"structure": "Fronted element + comma + clause",
+"keyPoints": [
+"Common in formal writing",
+"Often requires inversion",
+"Emphasizes adverbials"
+],
+"examples": [
+"Only then did he understand.",
+"Such was her determination.",
+"Into the room walked the teacher."
+],
+"incorrect": {
+"sentence": "Only then he understood.",
+"explanation": "Inversion required after fronting."
+},
+"questions": [
+{
+"question": "Correct fronting:",
+"options": [
+"Only then did he realize.",
+"Only then he realized.",
+"He only then realized.",
+"Did only then he realize."
+],
+"answer": 0,
+"explanation": "Auxiliary inversion required."
+},
+{
+"question": "Fronting emphasizes:",
+"options": ["Beginning element", "Verb only", "Subject only", "Tense"],
+"answer": 0,
+"explanation": "Focus at start."
+},
+{
+"question": "Such was her determination means:",
+"options": [
+"She was determined",
+"Her determination was strong",
+"She had no determination",
+"She failed"
+],
+"answer": 1,
+"explanation": "Emphasizes strength."
+},
+{
+"question": "Inversion often required after:",
+"options": ["Fronting", "Passive", "Gerund", "Plural"],
+"answer": 0,
+"explanation": "Often follows fronted negatives."
+},
+{
+"question": "Into the room walked the teacher shows:",
+"options": ["Inverted order", "Fragment", "Passive", "Run-on"],
+"answer": 0,
+"explanation": "Subject after verb."
+}
+]
+},
+
+{
+"id": "A-009",
+"level": "advanced",
+"category": "voice",
+"name": "Advanced Passive (Double Objects)",
+"xpReward": 75,
+"difficulty": 5,
+"explanation": "Some verbs with two objects can form two passive structures.",
+"structure": "Indirect object + be + past participle",
+"keyPoints": [
+"Give, send, offer allow double passive",
+"Indirect object often preferred",
+"Maintain correct order"
+],
+"examples": [
+"She was given a gift.",
+"A gift was given to her.",
+"He was offered a job."
+],
+"incorrect": {
+"sentence": "Was given she a gift.",
+"explanation": "Incorrect word order."
+},
+"questions": [
+{
+"question": "Correct passive:",
+"options": [
+"He was offered a job.",
+"Was offered he a job.",
+"He offered was a job.",
+"A job he was offered."
+],
+"answer": 0,
+"explanation": "Proper passive structure."
+},
+{
+"question": "Double passive possible with:",
+"options": ["Give", "Run", "Sleep", "Arrive"],
+"answer": 0,
+"explanation": "Transitive verb with two objects."
+},
+{
+"question": "A letter was sent to her means:",
+"options": [
+"Active voice",
+"Passive voice",
+"Fragment",
+"Run-on"
+],
+"answer": 1,
+"explanation": "Passive structure."
+},
+{
+"question": "Preferred passive often focuses on:",
+"options": ["Person", "Object only", "Verb", "Adverb"],
+"answer": 0,
+"explanation": "Indirect object often used."
+},
+{
+"question": "Identify incorrect form:",
+"options": [
+"She was given a prize.",
+"A prize was given to her.",
+"He was offered a chance.",
+"Was offered he a chance."
+],
+"answer": 3,
+"explanation": "Wrong word order."
+}
+]
+},
+
+{
+"id": "A-010",
+"level": "advanced",
+"category": "conjunctions",
+"name": "Correlative Conjunction Precision",
+"xpReward": 70,
+"difficulty": 5,
+"explanation": "Correlative conjunctions (not only...but also, either...or) require parallel structure.",
+"structure": "Correlative pair + parallel elements",
+"keyPoints": [
+"Maintain parallelism",
+"Subject-verb agreement",
+"Balance both parts"
+],
+"examples": [
+"Not only did she sing, but she also danced.",
+"Either you leave or I will.",
+"Both the manager and the staff agreed."
+],
+"incorrect": {
+"sentence": "Not only she sang but also danced.",
+"explanation": "Inversion required after 'not only'."
+},
+"questions": [
+{
+"question": "Correct structure:",
+"options": [
+"Not only did he win, but he also celebrated.",
+"Not only he won, but he also celebrated.",
+"He not only won but also celebrated.",
+"Did not only he win but also celebrated."
+],
+"answer": 0,
+"explanation": "Inversion required."
+},
+{
+"question": "Either...or requires:",
+"options": ["Agreement with nearest subject", "Plural always", "Past tense", "Passive"],
+"answer": 0,
+"explanation": "Verb agrees with closest subject."
+},
+{
+"question": "Both...and requires:",
+"options": ["Plural verb", "Singular verb", "Past tense", "Modal"],
+"answer": 0,
+"explanation": "Both implies plural."
+},
+{
+"question": "Parallelism required in:",
+"options": ["Correlative pairs", "Articles", "Prepositions", "Adverbs"],
+"answer": 0,
+"explanation": "Must match structure."
+},
+{
+"question": "Identify imbalance:",
+"options": [
+"She is not only smart but also hardworking.",
+"He either studies or works.",
+"They both sing and dance.",
+"He not only sings but also dancing."
+],
+"answer": 3,
+"explanation": "Mixed verb forms."
+}
+]
+}
+]
+,
+{
+"id": "A-011",
+"level": "advanced",
+"category": "modifiers",
+"xpReward": 75,
+"difficulty": 5,
+"name": "Dangling Modifiers",
+"explanation": "A dangling modifier occurs when a modifying phrase does not clearly refer to the subject of the sentence.",
+"structure": "Modifier + comma + correct subject",
+"keyPoints": [
+"Subject must logically perform action",
+"Avoid unclear references",
+"Common in participial clauses"
+],
+"examples": [
+"Walking down the street, I saw a cat.",
+"Having finished the work, she left.",
+"After reading the book, he wrote a review."
+],
+"incorrect": {
+"sentence": "Walking down the street, the cat was seen.",
+"explanation": "Implies the cat was walking."
+},
+"questions": [
+{
+"question": "Correct sentence:",
+"options": [
+"Walking down the street, I saw a dog.",
+"Walking down the street, the dog was seen.",
+"Walking down the street, there was a dog.",
+"Walking down the street, a dog appeared."
+],
+"answer": 0,
+"explanation": "Subject performs action."
+},
+{
+"question": "Dangling modifiers cause:",
+"options": ["Confusion", "Clarity", "Parallelism", "Inversion"],
+"answer": 0,
+"explanation": "They create ambiguity."
+},
+{
+"question": "Identify dangling modifier:",
+"options": [
+"Having finished, she left.",
+"After finishing homework, I watched TV.",
+"Driving to work, the rain started.",
+"While studying, he listened to music."
+],
+"answer": 2,
+"explanation": "Rain not driving."
+},
+{
+"question": "Modifier must refer to:",
+"options": ["Correct subject", "Verb only", "Object only", "Tense"],
+"answer": 0,
+"explanation": "Logical subject required."
+},
+{
+"question": "Dangling modifiers common in:",
+"options": ["Academic writing errors", "Correct writing", "Passive voice", "Questions"],
+"answer": 0,
+"explanation": "Frequent exam trap."
+}
+]
+},
+
+{
+"id": "A-012",
+"level": "advanced",
+"category": "clauses",
+"name": "Advanced Clause Reduction",
+"xpReward": 80,
+"difficulty": 5,
+"explanation": "Clause reduction shortens relative clauses using participles or infinitives while keeping meaning clear.",
+"structure": "Relative clause → participle phrase",
+"keyPoints": [
+"Reduce who/which clauses",
+"Use -ing or past participle",
+"Maintain clarity"
+],
+"examples": [
+"Students studying hard will succeed.",
+"The book written by her is famous.",
+"The man to win the prize was surprised."
+],
+"incorrect": {
+"sentence": "Students study hard will succeed.",
+"explanation": "Clause not properly reduced."
+},
+"questions": [
+{
+"question": "Correct reduced clause:",
+"options": [
+"People living here are friendly.",
+"People live here are friendly.",
+"People lived here are friendly.",
+"People to live here are friendly."
+],
+"answer": 0,
+"explanation": "Reduced relative clause."
+},
+{
+"question": "Clause reduction improves:",
+"options": ["Conciseness", "Length", "Errors", "Confusion"],
+"answer": 0,
+"explanation": "Makes writing concise."
+},
+{
+"question": "The report written by her means:",
+"options": [
+"She wrote the report",
+"The report wrote her",
+"She is writing",
+"Report writing"
+],
+"answer": 0,
+"explanation": "Past participle clause."
+},
+{
+"question": "Identify incorrect reduction:",
+"options": [
+"Students studying hard succeed.",
+"The car parked outside is mine.",
+"The book write by him is good.",
+"People invited attended."
+],
+"answer": 2,
+"explanation": "Wrong participle form."
+},
+{
+"question": "Relative clauses begin with:",
+"options": ["Who/Which/That", "If", "Although", "Because"],
+"answer": 0,
+"explanation": "Relative pronouns."
+}
+]
+},
+
+{
+"id": "A-013",
+"level": "advanced",
+"category": "modifiers",
+"name": "Absolute Phrases",
+"xpReward": 75,
+"difficulty": 5,
+"explanation": "Absolute phrases add extra information and contain a noun + participle, separate from main clause.",
+"structure": "Noun + participle, main clause",
+"keyPoints": [
+"Adds descriptive detail",
+"Not grammatically linked to verb",
+"Often separated by comma"
+],
+"examples": [
+"Her arms folded, she waited.",
+"The weather being cold, we stayed inside.",
+"His voice trembling, he spoke."
+],
+"incorrect": {
+"sentence": "Her arms folded she waited.",
+"explanation": "Comma required to separate phrase."
+},
+"questions": [
+{
+"question": "Absolute phrase contains:",
+"options": ["Noun + participle", "Verb only", "Adjective only", "Clause"],
+"answer": 0,
+"explanation": "Core structure."
+},
+{
+"question": "Correct sentence:",
+"options": [
+"Her eyes shining, she smiled.",
+"Her eyes shine she smiled.",
+"Her shining eyes she smiled.",
+"Shining her eyes, she smiled."
+],
+"answer": 0,
+"explanation": "Correct absolute structure."
+},
+{
+"question": "Absolute phrases add:",
+"options": ["Extra detail", "Main verb", "Subject", "Tense"],
+"answer": 0,
+"explanation": "Adds description."
+},
+{
+"question": "Often separated by:",
+"options": ["Comma", "Semicolon", "Colon", "Dash"],
+"answer": 0,
+"explanation": "Comma separation."
+},
+{
+"question": "Identify correct example:",
+"options": [
+"His hands shaking, he spoke.",
+"He shaking his hands spoke.",
+"Shaking hands he spoke.",
+"His shaking hands he spoke."
+],
+"answer": 0,
+"explanation": "Proper noun + participle."
+}
+]
+},
+
+{
+"id": "A-014",
+"level": "advanced",
+"category": "logic",
+"name": "Logical Fallacies in Sentence Construction",
+"xpReward": 80,
+"difficulty": 5,
+"explanation": "Sentences must follow logical reasoning. Illogical comparisons and faulty cause-effect are common traps.",
+"structure": "Ensure clear logical relationship",
+"keyPoints": [
+"Avoid false comparison",
+"Check cause-effect logic",
+"Compare similar elements"
+],
+"examples": [
+"She is taller than her sister.",
+"The demand increased because prices fell.",
+"His performance was better than expected."
+],
+"incorrect": {
+"sentence": "She is taller than most girls in her class are smart.",
+"explanation": "Illogical comparison."
+},
+"questions": [
+{
+"question": "Correct comparison:",
+"options": [
+"She is taller than her sister.",
+"She is taller than her sister is smart.",
+"She is taller than smart girls.",
+"She is taller than girls are."
+],
+"answer": 0,
+"explanation": "Logical comparison."
+},
+{
+"question": "Compare like elements:",
+"options": ["Yes", "No", "Optional", "Rarely"],
+"answer": 0,
+"explanation": "Compare similar items."
+},
+{
+"question": "Faulty cause-effect example:",
+"options": [
+"He studied; therefore, he passed.",
+"He studied because he passed.",
+"Because he studied, he passed.",
+"His success resulted from effort."
+],
+"answer": 1,
+"explanation": "Wrong logical order."
+},
+{
+"question": "Logical clarity improves:",
+"options": ["Argument strength", "Confusion", "Errors", "Fragments"],
+"answer": 0,
+"explanation": "Strengthens writing."
+},
+{
+"question": "Illogical comparisons weaken:",
+"options": ["Academic writing", "Parallelism", "Articles", "Pronouns"],
+"answer": 0,
+"explanation": "Reduces clarity."
+}
+]
+},
+
+{
+"id": "A-015",
+"level": "advanced",
+"category": "participles",
+"name": "Advanced Participial Phrases",
+"xpReward": 80,
+"difficulty": 5,
+"explanation": "Participial phrases (-ing or -ed) describe nouns. Misplacement creates ambiguity.",
+"structure": "Participle phrase + noun",
+"keyPoints": [
+"Must modify correct noun",
+"Often placed near subject",
+"Avoid ambiguity"
+],
+"examples": [
+"Exhausted from work, she slept.",
+"The boy running fast won the race.",
+"Shocked by the news, he remained silent."
+],
+"incorrect": {
+"sentence": "Running fast, the race was won by the boy.",
+"explanation": "Implies race was running."
+},
+"questions": [
+{
+"question": "Correct participial phrase:",
+"options": [
+"Tired from work, she slept.",
+"Tired from work, the bed was slept.",
+"Tired from work, there was sleep.",
+"Tired from work, sleep came."
+],
+"answer": 0,
+"explanation": "Correct noun modified."
+},
+{
+"question": "Participial phrases describe:",
+"options": ["Nouns", "Verbs", "Adverbs", "Tense"],
+"answer": 0,
+"explanation": "They modify nouns."
+},
+{
+"question": "Identify misplaced modifier:",
+"options": [
+"Walking home, I saw a bird.",
+"Walking home, the bird was seen.",
+"After eating, he left.",
+"Shocked by news, she cried."
+],
+"answer": 1,
+"explanation": "Bird not walking."
+},
+{
+"question": "Participles end in:",
+"options": ["-ing or -ed", "-ly", "-s", "-ment"],
+"answer": 0,
+"explanation": "Common endings."
+},
+{
+"question": "Misplaced participles cause:",
+"options": ["Ambiguity", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Create confusion."
+}
+]
+}
+]
+,
+{
+"id": "A-016",
+"level": "advanced",
+"category": "comparison",
+"xpReward": 80,
+"difficulty": 5,
+"name": "Advanced Comparative Structures",
+"explanation": "Advanced comparisons include 'no sooner...than', 'the more...the more', and double comparatives.",
+"structure": "No sooner + inversion + than | The + comparative, the + comparative",
+"keyPoints": [
+"Inversion after 'no sooner'",
+"Parallel structure required",
+"Shows proportional relationship"
+],
+"examples": [
+"No sooner had he arrived than it started raining.",
+"The more you practice, the better you become.",
+"The faster she runs, the stronger she gets."
+],
+"incorrect": {
+"sentence": "No sooner he arrived than it started raining.",
+"explanation": "Inversion required."
+},
+"questions": [
+{
+"question": "Correct structure:",
+"options": [
+"No sooner had she left than he arrived.",
+"No sooner she had left than he arrived.",
+"No sooner had she left then he arrived.",
+"No sooner she left than he arrived."
+],
+"answer": 0,
+"explanation": "Inversion + than."
+},
+{
+"question": "The more you study, ____.",
+"options": [
+"the more you learn",
+"more you learn",
+"you learn more",
+"the learn more"
+],
+"answer": 0,
+"explanation": "Parallel comparative."
+},
+{
+"question": "No sooner requires:",
+"options": ["Inversion", "Passive", "Gerund", "Plural"],
+"answer": 0,
+"explanation": "Auxiliary before subject."
+},
+{
+"question": "Double comparative expresses:",
+"options": ["Proportional change", "Past action", "Condition", "Certainty"],
+"answer": 0,
+"explanation": "Shows relationship."
+},
+{
+"question": "Wrong connector:",
+"options": ["Than", "Then", "After", "Because"],
+"answer": 1,
+"explanation": "'Than' required."
+}
+]
+},
+
+{
+"id": "A-017",
+"level": "advanced",
+"category": "inversion",
+"name": "Inversion After 'So' and 'Such'",
+"xpReward": 80,
+"difficulty": 5,
+"explanation": "Inversion follows 'So' and 'Such' when expressing strong emphasis.",
+"structure": "So + adjective + auxiliary + subject",
+"keyPoints": [
+"Requires inversion",
+"Common in formal emphasis",
+"Follow correct word order"
+],
+"examples": [
+"So beautiful was the view that we stopped.",
+"Such was his anger that he left.",
+"So intense was the heat that we stayed inside."
+],
+"incorrect": {
+"sentence": "So beautiful the view was that we stopped.",
+"explanation": "Inversion required."
+},
+"questions": [
+{
+"question": "Correct inversion:",
+"options": [
+"So great was his fear that he froze.",
+"So great his fear was that he froze.",
+"Great so was his fear that he froze.",
+"So was great his fear that he froze."
+],
+"answer": 0,
+"explanation": "Auxiliary before subject."
+},
+{
+"question": "Such was his surprise means:",
+"options": [
+"He was surprised",
+"He surprised others",
+"He was not surprised",
+"Surprise ended"
+],
+"answer": 0,
+"explanation": "Strong emphasis."
+},
+{
+"question": "Inversion used for:",
+"options": ["Emphasis", "Plural", "Tense only", "Questions only"],
+"answer": 0,
+"explanation": "Adds emphasis."
+},
+{
+"question": "Choose correct:",
+"options": [
+"So difficult was the exam that many failed.",
+"So difficult the exam was that many failed.",
+"The exam so difficult was that many failed.",
+"So was difficult the exam."
+],
+"answer": 0,
+"explanation": "Correct inverted form."
+},
+{
+"question": "Such + noun requires:",
+"options": ["Correct structure", "Gerund", "Passive", "Modal"],
+"answer": 0,
+"explanation": "Maintain syntax."
+}
+]
+},
+
+{
+"id": "A-018",
+"level": "advanced",
+"category": "rhetoric",
+"name": "Rhetorical Questions",
+"xpReward": 70,
+"difficulty": 4,
+"explanation": "Rhetorical questions are asked for effect, not answers. They emphasize ideas in persuasive writing.",
+"structure": "Question form for emphasis",
+"keyPoints": [
+"No answer expected",
+"Used in speeches",
+"Adds persuasive tone"
+],
+"examples": [
+"Who doesn't want success?",
+"Isn't it obvious?",
+"What could be more important?"
+],
+"incorrect": {
+"sentence": "Who does not wants success?",
+"explanation": "Subject-verb agreement error."
+},
+"questions": [
+{
+"question": "Rhetorical question expects:",
+"options": ["No answer", "Detailed answer", "Short answer", "Yes only"],
+"answer": 0,
+"explanation": "Used for emphasis."
+},
+{
+"question": "Correct form:",
+"options": [
+"Isn't it clear?",
+"Isn't it clears?",
+"Is not it clear?",
+"Not it clear?"
+],
+"answer": 0,
+"explanation": "Correct question form."
+},
+{
+"question": "Rhetorical questions common in:",
+"options": ["Speeches", "Grammar drills", "Fragments", "Passive only"],
+"answer": 0,
+"explanation": "Used in persuasion."
+},
+{
+"question": "Agreement error example:",
+"options": [
+"Who doesn't agree?",
+"Who do not agree?",
+"Doesn't everyone agree?",
+"Isn't that obvious?"
+],
+"answer": 1,
+"explanation": "Incorrect verb agreement."
+},
+{
+"question": "Purpose of rhetorical question:",
+"options": ["Emphasis", "Information only", "Tense shift", "Comparison"],
+"answer": 0,
+"explanation": "Adds impact."
+}
+]
+},
+
+{
+"id": "A-019",
+"level": "advanced",
+"category": "emphasis",
+"name": "Emphatic Stress Structures",
+"xpReward": 75,
+"difficulty": 5,
+"explanation": "Emphatic stress structures use repetition or auxiliary emphasis to highlight meaning.",
+"structure": "Do/Did + base verb | Repetition",
+"keyPoints": [
+"Used for strong emphasis",
+"Common in spoken emphasis",
+"Maintain correct verb form"
+],
+"examples": [
+"I do appreciate your help.",
+"He did finish the project.",
+"I really, really tried."
+],
+"incorrect": {
+"sentence": "He did finished the project.",
+"explanation": "Base verb required after 'did'."
+},
+"questions": [
+{
+"question": "Correct emphatic form:",
+"options": [
+"He did complete the task.",
+"He did completed the task.",
+"He did completes the task.",
+"He completed did the task."
+],
+"answer": 0,
+"explanation": "Base verb required."
+},
+{
+"question": "Emphatic structures add:",
+"options": ["Intensity", "Tense change", "Passive", "Fragment"],
+"answer": 0,
+"explanation": "Adds emphasis."
+},
+{
+"question": "Identify error:",
+"options": [
+"I do agree.",
+"She did finish.",
+"He did went home.",
+"They do care."
+],
+"answer": 2,
+"explanation": "Wrong verb form."
+},
+{
+"question": "After 'did', use:",
+"options": ["Base verb", "Past tense", "Gerund", "Past participle"],
+"answer": 0,
+"explanation": "Base form only."
+},
+{
+"question": "Repetition in rhetoric shows:",
+"options": ["Strong emotion", "Grammar error", "Fragment", "Passive voice"],
+"answer": 0,
+"explanation": "Adds impact."
+}
+]
+},
+
+{
+"id": "A-020",
+"level": "advanced",
+"category": "conditionals",
+"name": "Advanced Conditional Emphasis",
+"xpReward": 85,
+"difficulty": 5,
+"explanation": "Advanced conditional emphasis uses inversion and modal shifts for dramatic effect.",
+"structure": "Should/Were/Had + subject + base verb",
+"keyPoints": [
+"Inversion replaces if",
+"Formal tone",
+"Strong hypothetical emphasis"
+],
+"examples": [
+"Should you require assistance, contact us.",
+"Were I in your position, I would reconsider.",
+"Had he known, he would have acted differently."
+],
+"incorrect": {
+"sentence": "Should you required assistance, contact us.",
+"explanation": "Base verb required."
+},
+"questions": [
+{
+"question": "Correct inversion:",
+"options": [
+"Were I you, I would apologize.",
+"Were I was you, I would apologize.",
+"If were I you, I would apologize.",
+"Were I am you, I would apologize."
+],
+"answer": 0,
+"explanation": "Correct conditional inversion."
+},
+{
+"question": "Should you need help means:",
+"options": [
+"If you need help",
+"You need help",
+"You needed help",
+"You will need help"
+],
+"answer": 0,
+"explanation": "Formal conditional."
+},
+{
+"question": "Had he known expresses:",
+"options": [
+"Past unreal condition",
+"Future event",
+"Present fact",
+"Command"
+],
+"answer": 0,
+"explanation": "Past hypothetical."
+},
+{
+"question": "Base verb required after:",
+"options": ["Should/Were/Had", "Gerund", "Article", "Adjective"],
+"answer": 0,
+"explanation": "Inverted conditionals."
+},
+{
+"question": "These forms common in:",
+"options": ["Formal writing", "Slang", "Texting", "Fragments"],
+"answer": 0,
+"explanation": "Formal usage."
+}
+]
+}
+]
+,
+{
+"id": "A-021",
+"level": "advanced",
+"category": "cohesion",
+"xpReward": 85,
+"difficulty": 5,
+"name": "Advanced Cohesive Devices",
+"explanation": "Advanced cohesive devices ensure logical flow using reference, substitution, ellipsis, and lexical repetition.",
+"structure": "Use pronouns, synonyms, connectors strategically",
+"keyPoints": [
+"Avoid repetition unless strategic",
+"Use referencing words clearly",
+"Maintain logical thread"
+],
+"examples": [
+"The company expanded. This growth surprised investors.",
+"She failed the exam. That result shocked her.",
+"The proposal was rejected. Such a decision caused controversy."
+],
+"incorrect": {
+"sentence": "The company expanded. Expansion expanded quickly.",
+"explanation": "Awkward repetition without cohesion."
+},
+"questions": [
+{
+"question": "Cohesion ensures:",
+"options": ["Logical connection", "Tense shift", "Passive voice", "Fragment"],
+"answer": 0,
+"explanation": "Connects ideas clearly."
+},
+{
+"question": "Referencing word example:",
+"options": ["This", "Quickly", "Run", "Happy"],
+"answer": 0,
+"explanation": "Demonstrative reference."
+},
+{
+"question": "Identify cohesive improvement:",
+"options": [
+"The plan failed. This failure surprised them.",
+"The plan failed. Failed plan them surprised.",
+"The plan failed. Plan failed failure.",
+"The plan failed. Surprise."
+],
+"answer": 0,
+"explanation": "Clear reference."
+},
+{
+"question": "Lexical cohesion uses:",
+"options": ["Synonyms", "Articles", "Tense only", "Gerunds"],
+"answer": 0,
+"explanation": "Word variation."
+},
+{
+"question": "Good cohesion improves:",
+"options": ["Flow", "Confusion", "Errors", "Redundancy"],
+"answer": 0,
+"explanation": "Improves readability."
+}
+]
+},
+
+{
+"id": "A-022",
+"level": "advanced",
+"category": "academic_style",
+"name": "Metadiscourse Markers",
+"xpReward": 80,
+"difficulty": 5,
+"explanation": "Metadiscourse markers guide readers through arguments (e.g., 'in conclusion', 'however', 'for example').",
+"structure": "Marker + comma + clause",
+"keyPoints": [
+"Organize argument",
+"Clarify reasoning",
+"Used in academic essays"
+],
+"examples": [
+"In conclusion, the results were significant.",
+"However, the data remains inconclusive.",
+"For example, many studies confirm this."
+],
+"incorrect": {
+"sentence": "However the data remains inconclusive.",
+"explanation": "Comma required after introductory marker."
+},
+"questions": [
+{
+"question": "Metadiscourse helps:",
+"options": ["Guide reader", "Change tense", "Create fragments", "Remove verbs"],
+"answer": 0,
+"explanation": "Organizes ideas."
+},
+{
+"question": "Correct punctuation:",
+"options": [
+"However, the data is unclear.",
+"However the data is unclear.",
+"However the, data is unclear.",
+"However the data, is unclear."
+],
+"answer": 0,
+"explanation": "Comma after marker."
+},
+{
+"question": "Example marker:",
+"options": ["For instance", "Run", "Blue", "Quick"],
+"answer": 0,
+"explanation": "Introduces example."
+},
+{
+"question": "In conclusion signals:",
+"options": ["Summary", "Contrast", "Cause", "Condition"],
+"answer": 0,
+"explanation": "Summarizes argument."
+},
+{
+"question": "Metadiscourse common in:",
+"options": ["Academic writing", "Text messages", "Fragments", "Commands"],
+"answer": 0,
+"explanation": "Used in essays."
+}
+]
+},
+
+{
+"id": "A-023",
+"level": "advanced",
+"category": "register",
+"name": "Register Shifting in Academic Writing",
+"xpReward": 85,
+"difficulty": 5,
+"explanation": "Advanced writing requires consistent formal register and avoidance of colloquial shifts.",
+"structure": "Maintain consistent tone",
+"keyPoints": [
+"Avoid contractions",
+"No slang",
+"Use precise vocabulary"
+],
+"examples": [
+"The findings indicate significant improvement.",
+"This phenomenon requires further analysis.",
+"The results suggest a correlation."
+],
+"incorrect": {
+"sentence": "The results were kinda surprising.",
+"explanation": "Informal expression used."
+},
+"questions": [
+{
+"question": "Formal alternative to 'kids':",
+"options": ["Children", "Guys", "Folks", "Dudes"],
+"answer": 0,
+"explanation": "Formal vocabulary."
+},
+{
+"question": "Avoid in academic writing:",
+"options": ["Slang", "Passive voice", "Complex sentences", "Transitions"],
+"answer": 0,
+"explanation": "Slang inappropriate."
+},
+{
+"question": "Identify informal sentence:",
+"options": [
+"The data is significant.",
+"The findings are kinda cool.",
+"This study reveals results.",
+"The theory explains the trend."
+],
+"answer": 1,
+"explanation": "Informal phrase."
+},
+{
+"question": "Register consistency ensures:",
+"options": ["Professional tone", "Confusion", "Fragment", "Inversion"],
+"answer": 0,
+"explanation": "Maintains credibility."
+},
+{
+"question": "Contractions are usually:",
+"options": ["Avoided formally", "Required", "Mandatory", "Passive"],
+"answer": 0,
+"explanation": "Avoid in formal tone."
+}
+]
+},
+
+{
+"id": "A-024",
+"level": "advanced",
+"category": "sentence_complexity",
+"name": "Sentence Embedding",
+"xpReward": 90,
+"difficulty": 5,
+"explanation": "Sentence embedding involves placing clauses within clauses to create complex academic sentences.",
+"structure": "Main clause + embedded clause",
+"keyPoints": [
+"Use relative clauses",
+"Maintain clarity",
+"Avoid excessive embedding"
+],
+"examples": [
+"The book that she recommended was fascinating.",
+"The theory, which was widely accepted, was later challenged.",
+"The student who won the prize is here."
+],
+"incorrect": {
+"sentence": "The book that she recommended that was fascinating.",
+"explanation": "Double embedding confusion."
+},
+"questions": [
+{
+"question": "Embedded clause example:",
+"options": [
+"The car that he bought is expensive.",
+"The car is expensive.",
+"He bought a car.",
+"The expensive car."
+],
+"answer": 0,
+"explanation": "Contains relative clause."
+},
+{
+"question": "Too much embedding causes:",
+"options": ["Confusion", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Overcomplexity."
+},
+{
+"question": "Relative clauses begin with:",
+"options": ["Who/Which/That", "If", "Because", "Although"],
+"answer": 0,
+"explanation": "Relative pronouns."
+},
+{
+"question": "Best practice:",
+"options": ["Maintain clarity", "Add many clauses", "Avoid verbs", "Remove subject"],
+"answer": 0,
+"explanation": "Clarity essential."
+},
+{
+"question": "Embedding increases:",
+"options": ["Complexity", "Simplicity", "Fragments", "Run-ons"],
+"answer": 0,
+"explanation": "Adds structural depth."
+}
+]
+},
+
+{
+"id": "A-025",
+"level": "advanced",
+"category": "complex_sentences",
+"name": "Multi-Clause Complexity Control",
+"xpReward": 90,
+"difficulty": 5,
+"explanation": "Advanced writing often uses multiple clauses; clarity depends on proper coordination and subordination.",
+"structure": "Main clause + subordinate clauses",
+"keyPoints": [
+"Balance coordination and subordination",
+"Maintain logical order",
+"Avoid run-on complexity"
+],
+"examples": [
+"Although it was raining, we continued because the match mattered.",
+"She studied hard, and she succeeded, although it was difficult.",
+"When the results were announced, the audience applauded."
+],
+"incorrect": {
+"sentence": "Although it was raining we continued because the match mattered and it important.",
+"explanation": "Missing punctuation and incomplete clause."
+},
+"questions": [
+{
+"question": "Complex sentence contains:",
+"options": ["Multiple clauses", "One word", "No verb", "Fragment"],
+"answer": 0,
+"explanation": "More than one clause."
+},
+{
+"question": "Subordination uses:",
+"options": ["Although/Because", "And", "But", "Or"],
+"answer": 0,
+"explanation": "Subordinate conjunction."
+},
+{
+"question": "Coordination uses:",
+"options": ["And/But/Or", "Because", "Although", "Since only"],
+"answer": 0,
+"explanation": "Coordinating conjunction."
+},
+{
+"question": "Too many clauses cause:",
+"options": ["Run-on confusion", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Overcomplex sentence."
+},
+{
+"question": "Proper punctuation ensures:",
+"options": ["Clarity", "Errors", "Fragments", "Misplacement"],
+"answer": 0,
+"explanation": "Improves readability."
+}
+]
+}
+]
+,
+{
+"id": "A-026",
+"level": "advanced",
+"category": "discourse",
+"xpReward": 95,
+"difficulty": 5,
+"name": "Advanced Discourse Analysis",
+"explanation": "Advanced discourse focuses on how sentences connect across paragraphs using thematic consistency and logical progression.",
+"structure": "Topic sentence + development + transition",
+"keyPoints": [
+"Maintain thematic consistency",
+"Use transitions strategically",
+"Avoid abrupt topic shifts"
+],
+"examples": [
+"The study reveals significant findings. Furthermore, it highlights limitations.",
+"This issue remains controversial. However, recent evidence suggests change.",
+"The results were promising. Nevertheless, further research is required."
+],
+"incorrect": {
+"sentence": "The study reveals findings. Blue is my favorite color.",
+"explanation": "Abrupt topic shift breaks discourse coherence."
+},
+"questions": [
+{
+"question": "Discourse ensures:",
+"options": ["Paragraph coherence", "Tense shift", "Plural form", "Fragments"],
+"answer": 0,
+"explanation": "Maintains logical development."
+},
+{
+"question": "Transition example:",
+"options": ["Nevertheless", "Run", "Blue", "Quickly"],
+"answer": 0,
+"explanation": "Connects ideas logically."
+},
+{
+"question": "Abrupt topic shift causes:",
+"options": ["Confusion", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Breaks logical flow."
+},
+{
+"question": "Topic sentence introduces:",
+"options": ["Main idea", "Verb tense", "Adjective", "Pronoun"],
+"answer": 0,
+"explanation": "States central theme."
+},
+{
+"question": "Discourse markers operate at:",
+"options": ["Paragraph level", "Word level only", "Tense level", "Article level"],
+"answer": 0,
+"explanation": "Function across sentences."
+}
+]
+},
+
+{
+"id": "A-027",
+"level": "advanced",
+"category": "cohesion",
+"name": "Thematic Progression",
+"xpReward": 95,
+"difficulty": 5,
+"explanation": "Thematic progression refers to how information flows from known (theme) to new (rheme) information.",
+"structure": "Theme → Rheme → New theme",
+"keyPoints": [
+"Start with known info",
+"Introduce new information gradually",
+"Maintain logical sequence"
+],
+"examples": [
+"The experiment failed. This failure led to revisions.",
+"The company expanded. This expansion increased profits.",
+"The data was analyzed. The results confirmed the hypothesis."
+],
+"incorrect": {
+"sentence": "The experiment failed. Profit margins are important in business.",
+"explanation": "New topic introduced without link."
+},
+"questions": [
+{
+"question": "Theme represents:",
+"options": ["Known information", "New information", "Verb", "Adverb"],
+"answer": 0,
+"explanation": "Theme is known context."
+},
+{
+"question": "Rheme introduces:",
+"options": ["New information", "Old topic", "Article", "Pronoun"],
+"answer": 0,
+"explanation": "Adds new content."
+},
+{
+"question": "Good thematic progression ensures:",
+"options": ["Smooth flow", "Abrupt shifts", "Fragments", "Run-ons"],
+"answer": 0,
+"explanation": "Improves coherence."
+},
+{
+"question": "Identify smooth progression:",
+"options": [
+"The data was collected. This data was analyzed.",
+"The data was collected. The sky is blue.",
+"The data was collected. Blue is calm.",
+"The data was collected. Running is fun."
+],
+"answer": 0,
+"explanation": "Maintains topic continuity."
+},
+{
+"question": "Thematic flow helps reader:",
+"options": ["Follow argument", "Change tense", "Add fragments", "Remove verbs"],
+"answer": 0,
+"explanation": "Guides comprehension."
+}
+]
+},
+
+{
+"id": "A-028",
+"level": "advanced",
+"category": "reference",
+"name": "Advanced Referencing Chains",
+"xpReward": 95,
+"difficulty": 5,
+"explanation": "Referencing chains track subjects across sentences using pronouns and synonyms without losing clarity.",
+"structure": "Noun → Pronoun → Synonym",
+"keyPoints": [
+"Maintain clarity of reference",
+"Avoid ambiguous pronouns",
+"Track main subjects"
+],
+"examples": [
+"The professor delivered the lecture. She emphasized clarity.",
+"The company launched a product. The firm expects success.",
+"The policy was revised. It now includes new guidelines."
+],
+"incorrect": {
+"sentence": "The professor spoke to the student. She was confused.",
+"explanation": "Ambiguous pronoun reference."
+},
+"questions": [
+{
+"question": "Referencing chain maintains:",
+"options": ["Clarity", "Confusion", "Parallelism", "Tense shift"],
+"answer": 0,
+"explanation": "Tracks subject logically."
+},
+{
+"question": "Ambiguous pronouns cause:",
+"options": ["Confusion", "Clarity", "Agreement", "Inversion"],
+"answer": 0,
+"explanation": "Unclear reference."
+},
+{
+"question": "Synonym use supports:",
+"options": ["Lexical cohesion", "Fragment", "Run-on", "Passive"],
+"answer": 0,
+"explanation": "Avoids repetition."
+},
+{
+"question": "Correct referencing:",
+"options": [
+"The company expanded. It hired more staff.",
+"The company expanded. They hired more staff.",
+"The company expanded. He hired more staff.",
+"The company expanded. Hiring more staff."
+],
+"answer": 0,
+"explanation": "Clear pronoun reference."
+},
+{
+"question": "Referencing chain operates across:",
+"options": ["Multiple sentences", "Single word", "Articles only", "Verb tense"],
+"answer": 0,
+"explanation": "Works across discourse."
+}
+]
+},
+
+{
+"id": "A-029",
+"level": "advanced",
+"category": "argumentation",
+"name": "Academic Argument Framing",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Argument framing involves presenting claims, evidence, counterarguments, and conclusions logically.",
+"structure": "Claim → Evidence → Counterargument → Conclusion",
+"keyPoints": [
+"Present clear thesis",
+"Support with evidence",
+"Acknowledge counterpoints"
+],
+"examples": [
+"This study argues that climate change is accelerating.",
+"Evidence suggests significant economic growth.",
+"Although critics disagree, the data remains strong."
+],
+"incorrect": {
+"sentence": "This study argues that climate change is accelerating because it is obvious.",
+"explanation": "Lacks supporting evidence."
+},
+"questions": [
+{
+"question": "Strong argument requires:",
+"options": ["Evidence", "Opinion only", "Fragments", "Tense shift"],
+"answer": 0,
+"explanation": "Support essential."
+},
+{
+"question": "Counterargument strengthens:",
+"options": ["Credibility", "Confusion", "Fragment", "Agreement"],
+"answer": 0,
+"explanation": "Shows balanced reasoning."
+},
+{
+"question": "Conclusion restates:",
+"options": ["Main claim", "Verb", "Adjective", "Pronoun"],
+"answer": 0,
+"explanation": "Summarizes thesis."
+},
+{
+"question": "Weak argument lacks:",
+"options": ["Evidence", "Verb", "Subject", "Tense"],
+"answer": 0,
+"explanation": "No support."
+},
+{
+"question": "Academic framing improves:",
+"options": ["Logical persuasion", "Run-ons", "Fragments", "Inversion"],
+"answer": 0,
+"explanation": "Strengthens reasoning."
+}
+]
+},
+
+{
+"id": "A-030",
+"level": "advanced",
+"category": "style",
+"name": "Stylistic Inversion Mastery",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Stylistic inversion rearranges normal word order for emphasis or dramatic effect in formal writing.",
+"structure": "Fronted element + inverted verb + subject",
+"keyPoints": [
+"Used sparingly",
+"Adds dramatic tone",
+"Maintain grammatical correctness"
+],
+"examples": [
+"Down the hill rolled the ball.",
+"Only after the meeting did he understand.",
+"Never before had she experienced such joy."
+],
+"incorrect": {
+"sentence": "Down the hill the ball rolled did.",
+"explanation": "Incorrect word order."
+},
+"questions": [
+{
+"question": "Correct inversion:",
+"options": [
+"Never before had I seen this.",
+"Never before I had seen this.",
+"Never before seen I had this.",
+"Had never before I seen this."
+],
+"answer": 0,
+"explanation": "Auxiliary precedes subject."
+},
+{
+"question": "Stylistic inversion adds:",
+"options": ["Emphasis", "Confusion", "Fragments", "Agreement error"],
+"answer": 0,
+"explanation": "Enhances impact."
+},
+{
+"question": "Identify inverted structure:",
+"options": [
+"Into the room walked the teacher.",
+"The teacher walked into the room.",
+"Walked into the room the teacher.",
+"The room into walked the teacher."
+],
+"answer": 0,
+"explanation": "Subject after verb."
+},
+{
+"question": "Used primarily in:",
+"options": ["Formal or literary writing", "Text messages", "Slang", "Fragments"],
+"answer": 0,
+"explanation": "Formal style."
+},
+{
+"question": "Overuse may cause:",
+"options": ["Awkward tone", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Should be used carefully."
+}
+]
+}
+]
+,
+{
+"id": "A-031",
+"level": "advanced",
+"category": "academic_style",
+"name": "Precision in Academic Tone",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Academic tone requires precise vocabulary, measured claims, and avoidance of exaggeration.",
+"structure": "Use specific, neutral language",
+"keyPoints": [
+"Avoid exaggeration",
+"Prefer precise terminology",
+"Maintain objectivity"
+],
+"examples": [
+"The results indicate a moderate increase.",
+"The data suggests a correlation.",
+"This approach appears effective."
+],
+"incorrect": {
+"sentence": "The results are absolutely mind-blowing.",
+"explanation": "Exaggerated and informal tone."
+},
+"questions": [
+{
+"question": "Academic tone avoids:",
+"options": ["Exaggeration", "Precision", "Evidence", "Neutrality"],
+"answer": 0,
+"explanation": "Avoid overstatement."
+},
+{
+"question": "Precise word choice improves:",
+"options": ["Clarity", "Confusion", "Fragments", "Run-ons"],
+"answer": 0,
+"explanation": "Enhances understanding."
+},
+{
+"question": "Identify informal tone:",
+"options": [
+"The data is significant.",
+"The results are super amazing.",
+"The findings suggest correlation.",
+"The evidence supports the claim."
+],
+"answer": 1,
+"explanation": "Informal exaggeration."
+},
+{
+"question": "Academic writing should be:",
+"options": ["Objective", "Emotional", "Slang-heavy", "Casual"],
+"answer": 0,
+"explanation": "Maintain objectivity."
+},
+{
+"question": "Measured claims increase:",
+"options": ["Credibility", "Confusion", "Tension", "Fragments"],
+"answer": 0,
+"explanation": "Strengthens authority."
+}
+]
+},
+
+{
+"id": "A-032",
+"level": "advanced",
+"category": "ambiguity",
+"name": "Resolving Structural Ambiguity",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Ambiguity occurs when a sentence can have more than one meaning. Clear structure eliminates confusion.",
+"structure": "Clarify modifier placement",
+"keyPoints": [
+"Place modifiers carefully",
+"Avoid unclear pronouns",
+"Rewrite ambiguous phrases"
+],
+"examples": [
+"She saw the man with the telescope.",
+"Using a telescope, she saw the man.",
+"The teacher explained the rule clearly."
+],
+"incorrect": {
+"sentence": "Flying planes can be dangerous.",
+"explanation": "Unclear whether planes fly or people fly planes."
+},
+"questions": [
+{
+"question": "Ambiguity causes:",
+"options": ["Multiple meanings", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Leads to confusion."
+},
+{
+"question": "Clear modifier placement:",
+"options": [
+"Using a telescope, she saw the man.",
+"She saw the man with the telescope.",
+"She with the telescope saw man.",
+"Man telescope she saw."
+],
+"answer": 0,
+"explanation": "Clarifies subject."
+},
+{
+"question": "Ambiguous sentence example:",
+"options": [
+"Flying planes can be dangerous.",
+"She flew the plane.",
+"The plane was dangerous.",
+"She carefully flew."
+],
+"answer": 0,
+"explanation": "Structural ambiguity."
+},
+{
+"question": "Avoid ambiguity by:",
+"options": ["Rewriting clearly", "Adding clauses randomly", "Removing verbs", "Adding slang"],
+"answer": 0,
+"explanation": "Clarify meaning."
+},
+{
+"question": "Academic writing demands:",
+"options": ["Precision", "Ambiguity", "Slang", "Fragments"],
+"answer": 0,
+"explanation": "Clear structure required."
+}
+]
+},
+
+{
+"id": "A-033",
+"level": "advanced",
+"category": "syntax",
+"name": "Syntax Hierarchy Control",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Syntax hierarchy refers to structuring main and subordinate clauses logically to reflect importance.",
+"structure": "Main clause prioritized over subordinate clause",
+"keyPoints": [
+"Highlight main idea",
+"Subordinate supporting ideas",
+"Maintain logical emphasis"
+],
+"examples": [
+"Although it was raining, we continued.",
+"We continued although it was raining.",
+"Because she studied, she succeeded."
+],
+"incorrect": {
+"sentence": "Although we continued.",
+"explanation": "Incomplete subordinate clause."
+},
+"questions": [
+{
+"question": "Hierarchy highlights:",
+"options": ["Main idea", "Verb only", "Adjective", "Pronoun"],
+"answer": 0,
+"explanation": "Structure reflects importance."
+},
+{
+"question": "Subordinate clause begins with:",
+"options": ["Although/Because", "And", "But", "Or"],
+"answer": 0,
+"explanation": "Subordinating conjunction."
+},
+{
+"question": "Main clause must:",
+"options": ["Stand alone", "Be fragment", "Be passive", "Be plural"],
+"answer": 0,
+"explanation": "Independent clause."
+},
+{
+"question": "Correct structure:",
+"options": [
+"Although it rained, we continued.",
+"Although it rained.",
+"It rained although.",
+"Although we."
+],
+"answer": 0,
+"explanation": "Complete complex sentence."
+},
+{
+"question": "Hierarchy control improves:",
+"options": ["Clarity", "Confusion", "Ambiguity", "Fragments"],
+"answer": 0,
+"explanation": "Organizes ideas logically."
+}
+]
+},
+
+{
+"id": "A-034",
+"level": "advanced",
+"category": "rhetoric",
+"name": "Advanced Rhetorical Balance",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Rhetorical balance involves symmetrical structure to enhance persuasive writing.",
+"structure": "Balanced clauses with parallel grammar",
+"keyPoints": [
+"Maintain symmetry",
+"Use parallelism",
+"Balance ideas"
+],
+"examples": [
+"We must act now, not tomorrow.",
+"It is not the size of the dog, but the fight in the dog.",
+"Ask not what your country can do for you."
+],
+"incorrect": {
+"sentence": "We must act now, not acting tomorrow.",
+"explanation": "Lacks structural balance."
+},
+"questions": [
+{
+"question": "Rhetorical balance uses:",
+"options": ["Parallel structure", "Fragments", "Run-ons", "Ambiguity"],
+"answer": 0,
+"explanation": "Balanced grammar."
+},
+{
+"question": "Balanced sentence:",
+"options": [
+"We must act now, not tomorrow.",
+"We must act now, not acting tomorrow.",
+"Act now tomorrow not.",
+"Now act must tomorrow."
+],
+"answer": 0,
+"explanation": "Parallel balance."
+},
+{
+"question": "Balance improves:",
+"options": ["Persuasion", "Confusion", "Tension", "Errors"],
+"answer": 0,
+"explanation": "Enhances impact."
+},
+{
+"question": "Symmetry requires:",
+"options": ["Equal grammar", "Random words", "No verbs", "Passive"],
+"answer": 0,
+"explanation": "Parallel forms."
+},
+{
+"question": "Used in:",
+"options": ["Speeches", "Academic writing", "Literature", "All of the above"],
+"answer": 3,
+"explanation": "Common rhetorical device."
+}
+]
+},
+
+{
+"id": "A-035",
+"level": "advanced",
+"category": "density",
+"name": "Information Density Control",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Advanced writers control how much information appears in each sentence to avoid overload.",
+"structure": "Balance content and clarity",
+"keyPoints": [
+"Avoid overcrowded sentences",
+"Split when necessary",
+"Maintain clarity"
+],
+"examples": [
+"The study examined several variables.",
+"The study examined variables, including age, income, and education.",
+"The findings were significant."
+],
+"incorrect": {
+"sentence": "The study examined age income education background lifestyle variables and more without pause.",
+"explanation": "Overloaded sentence."
+},
+"questions": [
+{
+"question": "High density without structure causes:",
+"options": ["Confusion", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Too much information."
+},
+{
+"question": "Best solution:",
+"options": ["Split sentence", "Add more words", "Remove verb", "Use slang"],
+"answer": 0,
+"explanation": "Improves readability."
+},
+{
+"question": "Information control improves:",
+"options": ["Comprehension", "Ambiguity", "Fragments", "Inversion"],
+"answer": 0,
+"explanation": "Enhances understanding."
+},
+{
+"question": "Overcrowded sentences reduce:",
+"options": ["Clarity", "Precision", "Grammar", "Parallelism"],
+"answer": 0,
+"explanation": "Hard to read."
+},
+{
+"question": "Density must be:",
+"options": ["Balanced", "Extreme", "Minimal always", "Random"],
+"answer": 0,
+"explanation": "Maintain balance."
+}
+]
+},
+
+{
+"id": "A-036",
+"level": "advanced",
+"category": "editing",
+"name": "Precision Editing Strategies",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Advanced editing involves checking clarity, structure, cohesion, tone, and grammar holistically.",
+"structure": "Review sentence by sentence",
+"keyPoints": [
+"Check coherence",
+"Remove redundancy",
+"Ensure consistency"
+],
+"examples": [
+"The argument is logically structured.",
+"The tone remains formal.",
+"The evidence supports the claim."
+],
+"incorrect": {
+"sentence": "The argument is structured and structure is good.",
+"explanation": "Redundant phrasing."
+},
+"questions": [
+{
+"question": "Editing improves:",
+"options": ["Overall quality", "Confusion", "Fragments", "Run-ons"],
+"answer": 0,
+"explanation": "Enhances writing."
+},
+{
+"question": "Remove:",
+"options": ["Redundancy", "Evidence", "Clarity", "Structure"],
+"answer": 0,
+"explanation": "Avoid repetition."
+},
+{
+"question": "Consistency applies to:",
+"options": ["Tone and tense", "Verb only", "Article", "Pronoun only"],
+"answer": 0,
+"explanation": "Maintain consistency."
+},
+{
+"question": "Editing ensures:",
+"options": ["Cohesion", "Ambiguity", "Slang", "Fragments"],
+"answer": 0,
+"explanation": "Clear writing."
+},
+{
+"question": "Precision editing requires:",
+"options": ["Attention to detail", "Random review", "Skipping steps", "Overwriting"],
+"answer": 0,
+"explanation": "Careful revision."
+}
+]
+},
+
+{
+"id": "A-037",
+"level": "advanced",
+"category": "sequencing",
+"name": "Logical Sequencing Mastery",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Logical sequencing ensures ideas follow a clear cause-effect or chronological order.",
+"structure": "Chronological or causal sequence",
+"keyPoints": [
+"Use time markers",
+"Maintain cause-effect clarity",
+"Avoid disordered flow"
+],
+"examples": [
+"First, the data was collected. Then, it was analyzed.",
+"Because she studied, she passed.",
+"The experiment failed; therefore, it was repeated."
+],
+"incorrect": {
+"sentence": "She passed because she studied after she celebrated before she enrolled.",
+"explanation": "Illogical sequence."
+},
+"questions": [
+{
+"question": "Logical sequencing ensures:",
+"options": ["Clear progression", "Ambiguity", "Fragments", "Inversion"],
+"answer": 0,
+"explanation": "Maintains order."
+},
+{
+"question": "Cause-effect marker:",
+"options": ["Therefore", "Blue", "Run", "Quick"],
+"answer": 0,
+"explanation": "Indicates result."
+},
+{
+"question": "Chronological marker:",
+"options": ["First", "However", "Although", "Despite"],
+"answer": 0,
+"explanation": "Indicates time order."
+},
+{
+"question": "Disordered sequencing causes:",
+"options": ["Confusion", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Breaks logic."
+},
+{
+"question": "Good sequencing strengthens:",
+"options": ["Argument", "Fragments", "Run-ons", "Errors"],
+"answer": 0,
+"explanation": "Improves reasoning."
+}
+]
+},
+
+{
+"id": "A-038",
+"level": "advanced",
+"category": "cohesion",
+"name": "Academic Cohesion Synthesis",
+"xpReward": 100,
+"difficulty": 5,
+"explanation": "Cohesion synthesis combines referencing, transitions, thematic flow, and structure into unified writing.",
+"structure": "Integrate multiple cohesion tools",
+"keyPoints": [
+"Use varied connectors",
+"Maintain consistent themes",
+"Ensure logical progression"
+],
+"examples": [
+"The results were promising. Consequently, funding increased.",
+"The theory was revised. This revision improved accuracy.",
+"The policy changed; therefore, outcomes shifted."
+],
+"incorrect": {
+"sentence": "The theory changed. Apples are healthy.",
+"explanation": "No cohesive link."
+},
+"questions": [
+{
+"question": "Cohesion synthesis combines:",
+"options": ["Multiple devices", "One verb", "Fragments", "Passive only"],
+"answer": 0,
+"explanation": "Integrated strategy."
+},
+{
+"question": "Connector example:",
+"options": ["Consequently", "Blue", "Run", "Quick"],
+"answer": 0,
+"explanation": "Shows result."
+},
+{
+"question": "Strong cohesion improves:",
+"options": ["Unity", "Confusion", "Ambiguity", "Errors"],
+"answer": 0,
+"explanation": "Creates unity."
+},
+{
+"question": "Break in cohesion causes:",
+"options": ["Topic shift", "Clarity", "Parallelism", "Agreement"],
+"answer": 0,
+"explanation": "Weakens structure."
+},
+{
+"question": "Cohesion operates across:",
+"options": ["Entire text", "Single word only", "Verb tense", "Article"],
+"answer": 0,
+"explanation": "Text-level feature."
+}
+]
+},
+
+{
+"id": "A-039",
+"level": "advanced",
+"category": "integration",
+"name": "Integrated Grammar Mastery",
+"xpReward": 120,
+"difficulty": 5,
+"explanation": "Integrated mastery combines syntax, cohesion, logic, tone, and structure into advanced writing.",
+"structure": "Apply multiple advanced rules simultaneously",
+"keyPoints": [
+"Maintain clarity",
+"Balance complexity",
+"Ensure correctness"
+],
+"examples": [
+"Although the data was limited, the findings were persuasive; therefore, further research is warranted.",
+"Not only did she analyze the results, but she also interpreted them critically.",
+"The study, which was widely cited, influenced policy decisions."
+],
+"incorrect": {
+"sentence": "Although the data limited therefore persuasive findings.",
+"explanation": "Broken structure."
+},
+"questions": [
+{
+"question": "Integrated mastery requires:",
+"options": ["Multiple grammar skills", "One rule only", "Slang", "Fragments"],
+"answer": 0,
+"explanation": "Combination of skills."
+},
+{
+"question": "Complex but clear writing is:",
+"options": ["Effective", "Confusing", "Fragmented", "Passive"],
+"answer": 0,
+"explanation": "Advanced clarity."
+},
+{
+"question": "Strong academic sentence includes:",
+"options": ["Logic + structure", "Random words", "No verbs", "Slang"],
+"answer": 0,
+"explanation": "Integrated structure."
+},
+{
+"question": "Balance ensures:",
+"options": ["Readability", "Ambiguity", "Error", "Run-on"],
+"answer": 0,
+"explanation": "Maintains clarity."
+},
+{
+"question": "Mastery shows:",
+"options": ["Control", "Confusion", "Fragment", "Tense shift"],
+"answer": 0,
+"explanation": "Demonstrates expertise."
+}
+]
+},
+
+{
+"id": "A-040",
+"level": "advanced",
+"category": "capstone",
+"name": "Grammar Capstone Rule",
+"xpReward": 150,
+"difficulty": 5,
+"explanation": "The capstone rule emphasizes clarity, precision, cohesion, logic, tone, and structure working together.",
+"structure": "Integrate all learned structures effectively",
+"keyPoints": [
+"Clarity first",
+"Precision in language",
+"Logical flow",
+"Formal tone",
+"Balanced complexity"
+],
+"examples": [
+"Having analyzed the data, the researchers concluded that further investigation is necessary.",
+"Only after reviewing the evidence did the committee reach a decision.",
+"The theory, although controversial, remains influential."
+],
+"incorrect": {
+"sentence": "Having analyze data committee decision because theory influential.",
+"explanation": "Lacks grammatical integration."
+},
+"questions": [
+{
+"question": "Capstone mastery means:",
+"options": ["Full integration", "Single rule use", "Slang writing", "Fragment use"],
+"answer": 0,
+"explanation": "Combines all grammar principles."
+},
+{
+"question": "Advanced clarity requires:",
+"options": ["Structure + logic", "Random complexity", "More words", "Less punctuation"],
+"answer": 0,
+"explanation": "Integrated control."
+},
+{
+"question": "Strong writing balances:",
+"options": ["Complexity & clarity", "Length only", "Slang", "Fragments"],
+"answer": 0,
+"explanation": "Balance is key."
+},
+{
+"question": "Formal tone avoids:",
+"options": ["Informal slang", "Precision", "Transitions", "Cohesion"],
+"answer": 0,
+"explanation": "Maintain academic tone."
+},
+{
+"question": "Capstone rule goal:",
+"options": ["Complete grammar mastery", "Partial knowledge", "Basic verbs", "Articles only"],
+"answer": 0,
+"explanation": "Ultimate integration."
+}
+]
+}
+]

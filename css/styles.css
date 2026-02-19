@@ -1,0 +1,44 @@
+
+:root {
+--bg: #ffffff;
+--text: #222;
+--primary: #4f46e5;
+}
+body.dark {
+--bg: #121212;
+--text: #f3f3f3;
+}
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: var(--bg);
+color: var(--text);
+transition: 0.3s;
+}
+.app { display: flex; min-height: 100vh; }
+.sidebar {
+width: 250px;
+padding: 20px;
+background: var(--primary);
+color: white;
+}
+.sidebar input, .sidebar select {
+width: 100%;
+margin: 10px 0;
+padding: 8px;
+}
+.content { flex: 1; padding: 20px; overflow-y: auto; }
+.rule-card {
+border: 1px solid #ddd;
+padding: 15px;
+margin-bottom: 10px;
+cursor: pointer;
+background: #f9f9f9;
+}
+.hidden { display: none; }
+button {
+padding: 8px 12px;
+margin: 5px 0;
+cursor: pointer;
+}
+.quiz-question { margin-bottom: 20px; }
